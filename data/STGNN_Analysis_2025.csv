@@ -1,0 +1,811 @@
+﻿grid_id,predicted_event_2025,risk_class,cluster,nama_lokasi,kabupaten_kota_tercakup,provinsi_tercakup,kabupaten_dominan,provinsi_dominan,jenis_wilayah,hotspot_rank,latitude,longitude
+-3.0_129.0,76.00523104070078,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah; Raja Ampat,Maluku; Papua Barat Daya,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,1,-2.5,129.5
+-8.0_106.0,75.1997522133413,2,2,"Grid mencakup Sukabumi, Jawa Barat (pusat di luar polygon administrasi)",Sukabumi,Jawa Barat,Sukabumi,Jawa Barat,Pusat di luar polygon; grid beririsan dengan daratan,2,-7.5,106.5
+-4.0_129.0,74.69018546743398,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah; Seram Bagian Timur,Maluku,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,3,-3.5,129.5
+-10.0_119.0,74.46250464241633,2,2,"Sumba Tengah, Nusa Tenggara Timur",Sumba Barat; Sumba Barat Daya; Sumba Tengah; Sumba Timur,Nusa Tenggara Timur,Sumba Tengah,Nusa Tenggara Timur,Pusat grid di dalam polygon administrasi,4,-9.5,119.5
+-2.0_122.0,74.32670988708901,2,2,"Grid mencakup Banggai, Sulawesi Tengah (pusat di luar polygon administrasi)",Banggai; Banggai Kepulauan; Morowali Utara; Tojo Una Una,Sulawesi Tengah,Banggai,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,5,-1.5,122.5
+-3.0_128.0,74.11803594884383,2,2,"Grid mencakup Seram Bagian Barat, Maluku (pusat di luar polygon administrasi)",Maluku Tengah; Seram Bagian Barat,Maluku,Seram Bagian Barat,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,6,-2.5,128.5
+-4.0_128.0,72.91680395963704,2,2,"Grid mencakup Seram Bagian Barat, Maluku (pusat di luar polygon administrasi)",Kota Ambon; Maluku Tengah; Seram Bagian Barat,Maluku,Seram Bagian Barat,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,7,-3.5,128.5
+-5.0_103.0,72.88735686025464,2,2,"Ogan Komering Ulu Selatan, Sumatera Selatan",Bengkulu Selatan; Empat Lawang; Kaur; Kota Pagar Alam; Lahat; Lampung Barat; Muara Enim; Ogan Komering Ulu; Ogan Komering Ulu Selatan; Pesisir Barat; Seluma,Bengkulu; Lampung; Sumatera Selatan,Ogan Komering Ulu Selatan,Sumatera Selatan,Pusat grid di dalam polygon administrasi,8,-4.5,103.5
+-8.0_121.0,72.84749151823296,2,2,"Grid mencakup Kepulauan Selayar, Sulawesi Selatan (pusat di luar polygon administrasi)",Kepulauan Selayar,Sulawesi Selatan,Kepulauan Selayar,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,9,-7.5,121.5
+-11.0_119.0,72.71166402692499,2,2,"Grid mencakup Sumba Timur, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Sumba Timur,Nusa Tenggara Timur,Sumba Timur,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,10,-10.5,119.5
+-10.0_122.0,72.64622305425986,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,11,-9.5,122.5
+-10.0_121.0,72.36993593828261,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,12,-9.5,121.5
+-9.0_122.0,72.09077044533127,2,2,"Sikka, Nusa Tenggara Timur",Ende; Flores Timur; Sikka,Nusa Tenggara Timur,Sikka,Nusa Tenggara Timur,Pusat grid di dalam polygon administrasi,13,-8.5,122.5
+-10.0_115.0,71.97776827096236,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,14,-9.5,115.5
+-9.0_121.0,71.65425624496844,2,2,"Grid mencakup Ende, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Ende; Nagekeo; Ngada; Sikka,Nusa Tenggara Timur,Ende,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,15,-8.5,121.5
+-10.0_120.0,71.64171063070117,2,2,"Grid mencakup Sumba Timur, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Sumba Timur,Nusa Tenggara Timur,Sumba Timur,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,16,-9.5,120.5
+-9.0_106.0,71.54856749745977,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,17,-8.5,106.5
+-1.0_122.0,70.98870136085633,2,2,"Grid mencakup Banggai, Sulawesi Tengah (pusat di luar polygon administrasi)",Banggai; Tojo Una Una,Sulawesi Tengah,Banggai,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,18,-0.5,122.5
+0.0_123.0,70.96638297771555,2,2,"Bone Bolango, Gorontalo",Bolaang Mongondow; Bolaang Mongondow Selatan; Bolaang Mongondow Utara; Bone Bolango; Gorontalo; Gorontalo Utara; Kota Gorontalo,Gorontalo; Sulawesi Utara,Bone Bolango,Gorontalo,Pusat grid di dalam polygon administrasi,19,0.5,123.5
+-8.0_107.0,70.84369510077296,2,2,"Grid mencakup Sukabumi, Jawa Barat (pusat di luar polygon administrasi)",Sukabumi,Jawa Barat,Sukabumi,Jawa Barat,Pusat di luar polygon; grid beririsan dengan daratan,20,-7.5,107.5
+1.0_126.0,70.78151586165603,2,2,"Grid mencakup Kota Ternate, Maluku Utara (pusat di luar polygon administrasi)",Kota Ternate,Maluku Utara,Kota Ternate,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,21,1.5,126.5
+-1.0_123.0,70.57183234036728,2,2,"Grid mencakup Banggai, Sulawesi Tengah (pusat di luar polygon administrasi)",Banggai,Sulawesi Tengah,Banggai,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,22,-0.5,123.5
+-10.0_116.0,70.50832545316868,2,2,"Grid mencakup Sumbawa Barat, Nusa Tenggara Barat (pusat di luar polygon administrasi)",Sumbawa Barat,Nusa Tenggara Barat,Sumbawa Barat,Nusa Tenggara Barat,Pusat di luar polygon; grid beririsan dengan daratan,23,-9.5,116.5
+-10.0_114.0,70.33075097184364,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,24,-9.5,114.5
+-6.0_103.0,70.29878921846907,2,2,"Grid mencakup Pesisir Barat, Lampung (pusat di luar polygon administrasi)",Lampung Barat; Pesisir Barat,Lampung,Pesisir Barat,Lampung,Pusat di luar polygon; grid beririsan dengan daratan,25,-5.5,103.5
+-9.0_115.0,70.27180588179543,2,2,"Karangasem, Bali",Badung; Bangli; Buleleng; Gianyar; Karangasem; Klungkung; Kota Denpasar; Lombok Barat; Tabanan,Bali; Nusa Tenggara Barat,Karangasem,Bali,Pusat grid di dalam polygon administrasi,26,-8.5,115.5
+-9.0_116.0,70.19043836502071,2,2,"Lombok Timur, Nusa Tenggara Barat",Kota Mataram; Lombok Barat; Lombok Tengah; Lombok Timur; Lombok Utara; Sumbawa; Sumbawa Barat,Nusa Tenggara Barat,Lombok Timur,Nusa Tenggara Barat,Pusat grid di dalam polygon administrasi,27,-8.5,116.5
+-7.0_104.0,70.15754821378509,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,28,-6.5,104.5
+-3.0_122.0,69.81182510681427,2,2,"Grid mencakup Morowali, Sulawesi Tengah (pusat di luar polygon administrasi)",Morowali,Sulawesi Tengah,Morowali,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,29,-2.5,122.5
+-6.0_104.0,69.691054577448,2,2,"Tanggamus, Lampung",Lampung Barat; Lampung Tengah; Lampung Utara; Pesawaran; Pesisir Barat; Pringsewu; Tanggamus,Lampung,Tanggamus,Lampung,Pusat grid di dalam polygon administrasi,30,-5.5,104.5
+-9.0_120.0,69.57550732027656,2,2,"Manggarai, Nusa Tenggara Timur",Manggarai; Manggarai Barat; Manggarai Timur; Ngada,Nusa Tenggara Timur,Manggarai Timur,Nusa Tenggara Timur,Pusat grid di dalam polygon administrasi,31,-8.5,120.5
+-11.0_120.0,69.37492440023853,2,2,"Grid mencakup Sumba Timur, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Sumba Timur,Nusa Tenggara Timur,Sumba Timur,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,32,-10.5,120.5
+0.0_126.0,69.18042326514598,2,2,"Grid mencakup Kota Ternate, Maluku Utara (pusat di luar polygon administrasi)",Kota Ternate,Maluku Utara,Kota Ternate,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,33,0.5,126.5
+-2.0_119.0,68.9669298338879,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,34,-1.5,119.5
+-1.0_121.0,68.84614077956307,2,2,"Grid mencakup Tojo Una Una, Sulawesi Tengah (pusat di luar polygon administrasi)",Banggai; Tojo Una Una,Sulawesi Tengah,Tojo Una Una,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,35,-0.5,121.5
+-3.0_119.0,68.8294844481955,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,36,-2.5,119.5
+-1.0_120.0,68.82156863211758,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,37,-0.5,120.5
+-4.0_139.0,68.62374720769373,2,2,"Yalimo, Papua Pegunungan",Jayapura; Jayawijaya; Mamberamo Raya; Mamberamo Tengah; Sarmi; Yahukimo; Yalimo,Papua; Papua Pegunungan,Jayapura,Papua,Pusat grid di dalam polygon administrasi,38,-3.5,139.5
+-9.0_107.0,68.5314175914686,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,39,-8.5,107.5
+-7.0_106.0,68.15744159909637,2,2,"Grid mencakup Lebak, Banten (pusat di luar polygon administrasi)",Adm. Kep. Seribu; Kota Adm. Jakarta Barat; Kota Adm. Jakarta Pusat; Kota Adm. Jakarta Selatan; Kota Adm. Jakarta Timur; Kota Adm. Jakarta Utara; Kota Bogor; Kota Cilegon; Kota Serang; Kota Sukabumi; Lebak; Pandeglang; Serang; Sukabumi,Banten; DKI Jakarta; Jawa Barat,Lebak,Banten,Pusat di luar polygon; grid beririsan dengan daratan,40,-6.5,106.5
+-10.0_113.0,67.89337760540161,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,41,-9.5,113.5
+1.0_127.0,67.63014056696801,2,2,"Grid mencakup Halmahera Utara, Maluku Utara (pusat di luar polygon administrasi)",Halmahera Barat; Halmahera Timur; Halmahera Utara,Maluku Utara,Halmahera Utara,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,42,1.5,127.5
+-8.0_120.0,67.33156356531883,2,2,"Grid mencakup Kepulauan Selayar, Sulawesi Selatan (pusat di luar polygon administrasi)",Kepulauan Selayar,Sulawesi Selatan,Kepulauan Selayar,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,43,-7.5,120.5
+-2.0_121.0,67.24378310816056,2,2,"Morowali Utara, Sulawesi Tengah",Banggai; Morowali Utara; Tojo Una Una,Sulawesi Tengah,Morowali Utara,Sulawesi Tengah,Pusat grid di dalam polygon administrasi,44,-1.5,121.5
+2.0_126.0,67.18065821678971,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,45,2.5,126.5
+-8.0_117.0,67.14581956740102,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,46,-7.5,117.5
+-5.0_102.0,67.08878682165164,2,2,"Grid mencakup Seluma, Bengkulu (pusat di luar polygon administrasi)",Bengkulu Selatan; Empat Lawang; Lahat; Seluma,Bengkulu; Sumatera Selatan,Seluma,Bengkulu,Pusat di luar polygon; grid beririsan dengan daratan,47,-4.5,102.5
+-3.0_121.0,67.04307732654948,2,2,"Luwu Timur, Sulawesi Selatan",Kolaka Utara; Konawe; Luwu Timur; Morowali; Morowali Utara,Sulawesi Selatan; Sulawesi Tengah; Sulawesi Tenggara,Luwu Timur,Sulawesi Selatan,Pusat grid di dalam polygon administrasi,48,-2.5,121.5
+0.0_125.0,67.01147791241681,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,49,0.5,125.5
+0.0_122.0,66.75517436515547,2,2,"Grid mencakup Gorontalo, Gorontalo (pusat di luar polygon administrasi)",Boalemo; Buol; Gorontalo; Gorontalo Utara; Kota Gorontalo; Pohuwato,Gorontalo; Sulawesi Tengah,Gorontalo,Gorontalo,Pusat di luar polygon; grid beririsan dengan daratan,50,0.5,122.5
+2.0_127.0,66.62147289079529,2,2,"Grid mencakup Halmahera Utara, Maluku Utara (pusat di luar polygon administrasi)",Halmahera Utara,Maluku Utara,Halmahera Utara,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,51,2.5,127.5
+-10.0_118.0,66.59679043211409,2,2,"Grid mencakup Sumba Barat Daya, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Sumba Barat Daya,Nusa Tenggara Timur,Sumba Barat Daya,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,52,-9.5,118.5
+-7.0_107.0,66.5372973007114,2,2,"Grid mencakup Sukabumi, Jawa Barat (pusat di luar polygon administrasi)",Sukabumi,Jawa Barat,Sukabumi,Jawa Barat,Pusat di luar polygon; grid beririsan dengan daratan,53,-6.5,107.5
+-4.0_127.0,66.45784393998801,2,2,"Grid mencakup Buru, Maluku (pusat di luar polygon administrasi)",Buru; Buru Selatan; Maluku Tengah; Seram Bagian Barat,Maluku,Buru,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,54,-3.5,127.5
+-3.0_139.0,65.94356605326776,2,2,"Sarmi, Papua",Jayapura; Mamberamo Raya; Sarmi,Papua,Sarmi,Papua,Pusat grid di dalam polygon administrasi,55,-2.5,139.5
+0.0_121.0,65.75205493246034,2,2,"Pohuwato, Gorontalo",Buol; Gorontalo Utara; Pohuwato; Toli Toli,Gorontalo; Sulawesi Tengah,Pohuwato,Gorontalo,Pusat grid di dalam polygon administrasi,56,0.5,121.5
+1.0_97.0,65.67017857113198,2,2,"Grid mencakup Nias Utara, Sumatera Utara (pusat di luar polygon administrasi)",Aceh Singkil; Kota Gunungsitoli; Nias; Nias Barat; Nias Selatan; Nias Utara,Aceh; Sumatera Utara,Nias Utara,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,57,1.5,97.5
+-8.0_105.0,65.43584165951864,2,2,"Grid mencakup Pandeglang, Banten (pusat di luar polygon administrasi)",Pandeglang,Banten,Pandeglang,Banten,Pusat di luar polygon; grid beririsan dengan daratan,58,-7.5,105.5
+-9.0_119.0,65.43067190369669,2,2,"Manggarai Barat, Nusa Tenggara Timur",Bima; Manggarai Barat,Nusa Tenggara Barat; Nusa Tenggara Timur,Manggarai Barat,Nusa Tenggara Timur,Pusat grid di dalam polygon administrasi,59,-8.5,119.5
+-10.0_117.0,65.3651753206507,2,2,"Grid mencakup Sumbawa, Nusa Tenggara Barat (pusat di luar polygon administrasi)",Sumbawa; Sumbawa Barat,Nusa Tenggara Barat,Sumbawa,Nusa Tenggara Barat,Pusat di luar polygon; grid beririsan dengan daratan,60,-9.5,117.5
+-7.0_105.0,65.2836461350031,2,2,"Grid mencakup Pandeglang, Banten (pusat di luar polygon administrasi)",Kota Cilegon; Lampung Selatan; Lebak; Pandeglang; Serang,Banten; Lampung,Pandeglang,Banten,Pusat di luar polygon; grid beririsan dengan daratan,61,-6.5,105.5
+-8.0_116.0,65.18379094048437,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,62,-7.5,116.5
+0.0_98.0,64.33254360949118,2,2,"Grid mencakup Nias Selatan, Sumatera Utara (pusat di luar polygon administrasi)",Mandailing Natal; Nias; Nias Selatan,Sumatera Utara,Nias Selatan,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,63,0.5,98.5
+-8.0_108.0,64.29677640612121,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,64,-7.5,108.5
+0.0_99.0,64.25968079186289,2,2,"Pasaman Barat, Sumatera Barat",Mandailing Natal; Padang Lawas; Pasaman; Pasaman Barat; Tapanuli Selatan,Sumatera Barat; Sumatera Utara,Mandailing Natal,Sumatera Utara,Pusat grid di dalam polygon administrasi,65,0.5,99.5
+-9.0_123.0,64.23810103497256,2,2,"Lembata, Nusa Tenggara Timur",Alor; Flores Timur; Lembata,Nusa Tenggara Timur,Lembata,Nusa Tenggara Timur,Pusat grid di dalam polygon administrasi,66,-8.5,123.5
+-3.0_133.0,64.22235560822658,2,2,"Grid mencakup Teluk Bintuni, Papua Barat (pusat di luar polygon administrasi)",Fak Fak; Kaimana; Teluk Bintuni,Papua Barat,Teluk Bintuni,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,67,-2.5,133.5
+3.0_96.0,64.08155233774603,2,2,"Grid mencakup Aceh Barat Daya, Aceh (pusat di luar polygon administrasi)",Aceh Barat Daya; Aceh Selatan; Gayo Lues; Nagan Raya,Aceh,Aceh Barat Daya,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,68,3.5,96.5
+-4.0_140.0,63.88071822656874,2,2,"Keerom, Papua",Jayapura; Keerom; Pegunungan Bintang; Yahukimo; Yalimo,Papua; Papua Pegunungan,Keerom,Papua,Pusat grid di dalam polygon administrasi,69,-3.5,140.5
+-2.0_120.0,63.866570273218,2,2,"Poso, Sulawesi Tengah",Morowali Utara; Poso; Tojo Una Una,Sulawesi Tengah,Poso,Sulawesi Tengah,Pusat grid di dalam polygon administrasi,70,-1.5,120.5
+-8.0_118.0,63.488031811961456,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,71,-7.5,118.5
+-9.0_114.0,63.4805046801348,2,2,"Grid mencakup Banyuwangi, Jawa Timur (pusat di luar polygon administrasi)",Banyuwangi; Bondowoso; Buleleng; Jember; Jembrana; Tabanan,Bali; Jawa Timur,Banyuwangi,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,72,-8.5,114.5
+-2.0_139.0,63.47353589699875,2,2,"Grid mencakup Sarmi, Papua (pusat di luar polygon administrasi)",Sarmi,Papua,Sarmi,Papua,Pusat di luar polygon; grid beririsan dengan daratan,73,-1.5,139.5
+-11.0_118.0,63.3528941665918,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,74,-10.5,118.5
+-3.0_127.0,63.19204013858276,2,2,"Grid mencakup Seram Bagian Barat, Maluku (pusat di luar polygon administrasi)",Seram Bagian Barat,Maluku,Seram Bagian Barat,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,75,-2.5,127.5
+-8.0_119.0,63.0846530127671,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,76,-7.5,119.5
+-9.0_108.0,63.04923054781879,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,77,-8.5,108.5
+-2.0_134.0,62.82136202621452,2,2,"Grid mencakup Manokwari Selatan, Papua Barat (pusat di luar polygon administrasi)",Biak Numfor; Manokwari; Manokwari Selatan; Pegunungan Arfak; Teluk Bintuni; Teluk Wondama,Papua; Papua Barat,Manokwari Selatan,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,78,-1.5,134.5
+-11.0_117.0,62.706178879831434,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,79,-10.5,117.5
+-10.0_123.0,62.65692856870188,2,2,"Grid mencakup Kupang, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Kupang,Nusa Tenggara Timur,Kupang,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,80,-9.5,123.5
+-4.0_134.0,62.463539160861174,2,2,"Kaimana, Papua Barat",Kaimana; Nabire; Teluk Bintuni; Teluk Wondama,Papua Barat; Papua Tengah,Kaimana,Papua Barat,Pusat grid di dalam polygon administrasi,81,-3.5,134.5
+-4.0_138.0,62.20910008507203,2,2,"Tolikara, Papua Pegunungan",Jayawijaya; Lanny Jaya; Mamberamo Raya; Mamberamo Tengah; Puncak; Puncak Jaya; Tolikara; Yalimo,Papua; Papua Pegunungan; Papua Tengah,Tolikara,Papua Pegunungan,Pusat grid di dalam polygon administrasi,82,-3.5,138.5
+-1.0_99.0,61.98040845274305,2,2,"Grid mencakup Pasaman Barat, Sumatera Barat (pusat di luar polygon administrasi)",; Agam; Padang Pariaman; Pasaman Barat,Sumatera Barat,Pasaman Barat,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,83,-0.5,99.5
+-1.0_124.0,61.769276378379445,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,84,-0.5,124.5
+-10.0_124.0,61.59762983397555,2,2,"Timor Tengah Utara, Nusa Tenggara Timur",Belu; Kupang; Malaka; Timor Tengah Selatan; Timor Tengah Utara,Nusa Tenggara Timur,Timor Tengah Selatan,Nusa Tenggara Timur,Pusat grid di dalam polygon administrasi,85,-9.5,124.5
+-3.0_138.0,61.35790924928383,2,2,"Sarmi, Papua",Mamberamo Raya; Puncak Jaya; Sarmi,Papua; Papua Tengah,Mamberamo Raya,Papua,Pusat grid di dalam polygon administrasi,86,-2.5,138.5
+-3.0_120.0,61.18604336559337,2,2,"Grid mencakup Luwu Timur, Sulawesi Selatan (pusat di luar polygon administrasi)",Kolaka Utara; Kota Palopo; Luwu Timur; Morowali Utara; Poso,Sulawesi Selatan; Sulawesi Tengah; Sulawesi Tenggara,Luwu Timur,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,87,-2.5,120.5
+-9.0_124.0,61.121538670311004,2,2,"Grid mencakup Alor, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Alor; Belu,Nusa Tenggara Timur,Alor,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,88,-8.5,124.5
+-3.0_135.0,60.829443716066756,2,2,"Grid mencakup Nabire, Papua Tengah (pusat di luar polygon administrasi)",Nabire,Papua Tengah,Nabire,Papua Tengah,Pusat di luar polygon; grid beririsan dengan daratan,89,-2.5,135.5
+3.0_126.0,60.79537170117967,2,2,"Grid mencakup Kepulauan Talaud, Sulawesi Utara (pusat di luar polygon administrasi)",Kepulauan Talaud,Sulawesi Utara,Kepulauan Talaud,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,90,3.5,126.5
+-3.0_140.0,60.71782588545864,2,2,"Jayapura, Papua",Jayapura; Keerom; Kota Jayapura; Sarmi,Papua,Jayapura,Papua,Pusat grid di dalam polygon administrasi,91,-2.5,140.5
+1.0_98.0,60.649734772125996,2,2,"Grid mencakup Tapanuli Tengah, Sumatera Utara (pusat di luar polygon administrasi)",; Humbang Hasundutan; Kota Sibolga; Mandailing Natal; Tapanuli Selatan; Tapanuli Tengah; Tapanuli Utara,Sumatera Utara,Tapanuli Tengah,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,92,1.5,98.5
+-4.0_121.0,60.62011283736303,2,2,"Kolaka Timur, Sulawesi Tenggara",Kolaka; Kolaka Timur; Kolaka Utara; Konawe; Konawe Utara; Luwu Timur; Morowali,Sulawesi Selatan; Sulawesi Tengah; Sulawesi Tenggara,Konawe,Sulawesi Tenggara,Pusat grid di dalam polygon administrasi,93,-3.5,121.5
+3.0_97.0,60.192109925854865,2,2,"Aceh Tenggara, Aceh",Aceh Barat Daya; Aceh Selatan; Aceh Tamiang; Aceh Tenggara; Dairi; Gayo Lues; Karo; Kota Subulussalam; Langkat,Aceh; Sumatera Utara,Aceh Tenggara,Aceh,Pusat grid di dalam polygon administrasi,94,3.5,97.5
+-2.0_133.0,60.17548963863127,2,2,"Pegunungan Arfak, Papua Barat",Manokwari; Manokwari Selatan; Pegunungan Arfak; Tambrauw; Teluk Bintuni,Papua Barat; Papua Barat Daya,Teluk Bintuni,Papua Barat,Pusat grid di dalam polygon administrasi,95,-1.5,133.5
+-5.0_128.0,60.125039247952934,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,96,-4.5,128.5
+-2.0_129.0,59.9010061394824,2,2,"Grid mencakup Raja Ampat, Papua Barat Daya (pusat di luar polygon administrasi)",Raja Ampat,Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,97,-1.5,129.5
+-9.0_117.0,59.81050126078909,2,2,"Sumbawa, Nusa Tenggara Barat",Bima; Dompu; Sumbawa; Sumbawa Barat,Nusa Tenggara Barat,Sumbawa,Nusa Tenggara Barat,Pusat grid di dalam polygon administrasi,98,-8.5,117.5
+0.0_120.0,59.47459910499436,2,2,"Grid mencakup Toli Toli, Sulawesi Tengah (pusat di luar polygon administrasi)",Buol; Toli Toli,Sulawesi Tengah,Toli Toli,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,99,0.5,120.5
+-4.0_119.0,58.80799174514239,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,100,-3.5,119.5
+-4.0_120.0,58.79171867422501,2,2,"Grid mencakup Kolaka Utara, Sulawesi Tenggara (pusat di luar polygon administrasi)",Kolaka Utara; Kota Palopo,Sulawesi Selatan; Sulawesi Tenggara,Kolaka Utara,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,101,-3.5,120.5
+4.0_95.0,57.6932188696495,2,2,"Grid mencakup Aceh Jaya, Aceh (pusat di luar polygon administrasi)",Aceh Barat; Aceh Jaya; Pidie,Aceh,Aceh Jaya,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,102,4.5,95.5
+0.0_127.0,57.0554079172102,2,2,"Grid mencakup Kota Tidore Kepulauan, Maluku Utara (pusat di luar polygon administrasi)",; Halmahera Barat; Halmahera Selatan; Halmahera Tengah; Halmahera Timur; Halmahera Utara; Kota Ternate; Kota Tidore Kepulauan,Maluku Utara,Kota Tidore Kepulauan,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,103,0.5,127.5
+-1.0_100.0,56.48353416581028,2,2,"Tanah Datar, Sumatera Barat",Agam; Kampar; Kota Bukittinggi; Kota Padang; Kota Padang Panjang; Kota Pariaman; Kota Payakumbuh; Kota Sawahlunto; Kota Solok; Lima Puluh Kota; Padang Pariaman; Pasaman; Pasaman Barat; Pesisir Selatan; Sijunjung; Solok; Tanah Datar,Riau; Sumatera Barat,Agam,Sumatera Barat,Pusat grid di dalam polygon administrasi,104,-0.5,100.5
+-9.0_118.0,56.42894167447428,2,2,"Dompu, Nusa Tenggara Barat",Bima; Dompu; Kota Bima; Sumbawa,Nusa Tenggara Barat,Bima,Nusa Tenggara Barat,Pusat grid di dalam polygon administrasi,105,-8.5,118.5
+-3.0_134.0,55.98226547472091,2,2,"Teluk Wondama, Papua Barat",Kaimana; Nabire; Teluk Bintuni; Teluk Wondama,Papua Barat; Papua Tengah,Teluk Wondama,Papua Barat,Pusat grid di dalam polygon administrasi,106,-2.5,134.5
+-1.0_98.0,55.92366444605364,2,2,"Grid mencakup Nias Selatan, Sumatera Utara (pusat di luar polygon administrasi)",Kepulauan Mentawai; Nias Selatan,Sumatera Barat; Sumatera Utara,Nias Selatan,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,107,-0.5,98.5
+-2.0_130.0,55.827549428619506,2,2,"Grid mencakup Raja Ampat, Papua Barat Daya (pusat di luar polygon administrasi)",Raja Ampat; Sorong,Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,108,-1.5,130.5
+1.0_121.0,55.758132488165224,2,2,"Grid mencakup Buol, Sulawesi Tengah (pusat di luar polygon administrasi)",Buol; Toli Toli,Sulawesi Tengah,Buol,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,109,1.5,121.5
+-8.0_122.0,55.601088504212505,2,2,"Grid mencakup Kepulauan Selayar, Sulawesi Selatan (pusat di luar polygon administrasi)",Kepulauan Selayar,Sulawesi Selatan,Kepulauan Selayar,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,110,-7.5,122.5
+-1.0_125.0,55.3163626686906,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,111,-0.5,125.5
+-4.0_133.0,55.29234535599647,2,2,"Kaimana, Papua Barat",Fak Fak; Kaimana; Teluk Bintuni,Papua Barat,Kaimana,Papua Barat,Pusat grid di dalam polygon administrasi,112,-3.5,133.5
+1.0_125.0,55.149899424681784,2,2,"Grid mencakup Minahasa Utara, Sulawesi Utara (pusat di luar polygon administrasi)",Kota Bitung; Minahasa; Minahasa Utara,Sulawesi Utara,Minahasa Utara,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,113,1.5,125.5
+-6.0_102.0,54.19308893633171,2,2,"Grid mencakup Bengkulu Utara, Bengkulu (pusat di luar polygon administrasi)",Bengkulu Utara,Bengkulu,Bengkulu Utara,Bengkulu,Pusat di luar polygon; grid beririsan dengan daratan,114,-5.5,102.5
+2.0_97.0,53.95715427846367,2,2,"Grid mencakup Aceh Selatan, Aceh (pusat di luar polygon administrasi)",Aceh Selatan; Aceh Singkil; Aceh Tenggara; Dairi; Kota Subulussalam,Aceh; Sumatera Utara,Aceh Selatan,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,115,2.5,97.5
+-9.0_113.0,53.57654534533264,2,2,"Grid mencakup Jember, Jawa Timur (pusat di luar polygon administrasi)",Banyuwangi; Bondowoso; Jember; Lumajang; Probolinggo,Jawa Timur,Jember,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,116,-8.5,113.5
+-2.0_99.0,53.391939840932906,2,2,"Grid mencakup Kepulauan Mentawai, Sumatera Barat (pusat di luar polygon administrasi)",Kepulauan Mentawai,Sumatera Barat,Kepulauan Mentawai,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,117,-1.5,99.5
+-1.0_132.0,53.33305339133234,2,2,"Tambrauw, Papua Barat Daya",Maybrat; Sorong; Tambrauw,Papua Barat Daya,Tambrauw,Papua Barat Daya,Pusat grid di dalam polygon administrasi,118,-0.5,132.5
+-8.0_109.0,53.25335157764222,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,119,-7.5,109.5
+-11.0_123.0,53.11298489171,2,2,"Grid mencakup Kupang, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Kota Kupang; Kupang; Rote Ndao,Nusa Tenggara Timur,Kupang,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,120,-10.5,123.5
+-2.0_135.0,52.94651678128603,2,2,"Grid mencakup Kepulauan Yapen, Papua (pusat di luar polygon administrasi)",Biak Numfor; Kepulauan Yapen,Papua,Kepulauan Yapen,Papua,Pusat di luar polygon; grid beririsan dengan daratan,121,-1.5,135.5
+-2.0_126.0,52.87555938555567,2,2,"Grid mencakup Kepulauan Sula, Maluku Utara (pusat di luar polygon administrasi)",Kepulauan Sula,Maluku Utara,Kepulauan Sula,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,122,-1.5,126.5
+-2.0_127.0,52.848806295420104,2,2,"Halmahera Selatan, Maluku Utara",Halmahera Selatan,Maluku Utara,Halmahera Selatan,Maluku Utara,Pusat grid di dalam polygon administrasi,123,-1.5,127.5
+-11.0_116.0,52.84030966628811,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,124,-10.5,116.5
+-7.0_103.0,52.78304091688125,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,125,-6.5,103.5
+1.0_120.0,52.76774854735298,2,2,"Grid mencakup Toli Toli, Sulawesi Tengah (pusat di luar polygon administrasi)",Toli Toli,Sulawesi Tengah,Toli Toli,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,126,1.5,120.5
+-10.0_112.0,52.53592659117982,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,127,-9.5,112.5
+-6.0_105.0,52.33015249646037,2,2,"Lampung Selatan, Lampung",Kota Bandar Lampung; Kota Cilegon; Kota Metro; Lampung Selatan; Lampung Tengah; Lampung Timur; Pesawaran; Pringsewu; Serang; Tanggamus,Banten; Lampung,Lampung Timur,Lampung,Pusat grid di dalam polygon administrasi,128,-5.5,105.5
+0.0_124.0,52.326399616769635,2,2,"Bolaang Mongondow Timur, Sulawesi Utara",Bolaang Mongondow; Bolaang Mongondow Selatan; Bolaang Mongondow Timur; Kota Kotamobagu; Minahasa Selatan; Minahasa Selatan/Bolaang Mongondwo Timur; Minahasa Tenggara,Sulawesi Utara,Bolaang Mongondow,Sulawesi Utara,Pusat grid di dalam polygon administrasi,129,0.5,124.5
+-7.0_120.0,52.23993885224877,2,2,"Grid mencakup Kepulauan Selayar, Sulawesi Selatan (pusat di luar polygon administrasi)",Kepulauan Selayar,Sulawesi Selatan,Kepulauan Selayar,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,130,-6.5,120.5
+-10.0_109.0,51.9769685821007,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,131,-9.5,109.5
+1.0_122.0,51.65732798234232,2,2,"Grid mencakup Buol, Sulawesi Tengah (pusat di luar polygon administrasi)",Buol; Gorontalo Utara,Gorontalo; Sulawesi Tengah,Buol,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,132,1.5,122.5
+-5.0_130.0,51.6529395473196,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah,Maluku,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,133,-4.5,130.5
+-2.0_132.0,50.976061329601535,2,2,"Maybrat, Papua Barat Daya",Maybrat; Sorong; Sorong Selatan; Tambrauw; Teluk Bintuni,Papua Barat; Papua Barat Daya,Maybrat,Papua Barat Daya,Pusat grid di dalam polygon administrasi,134,-1.5,132.5
+-5.0_104.0,50.96018450613843,2,2,"Way Kanan, Lampung",Lampung Barat; Lampung Tengah; Lampung Utara; Ogan Komering Ilir; Ogan Komering Ulu; Ogan Komering Ulu Selatan; Ogan Komering Ulu Timur; Tulang Bawang Barat; Way Kanan,Lampung; Sumatera Selatan,Way Kanan,Lampung,Pusat grid di dalam polygon administrasi,135,-4.5,104.5
+-4.0_130.0,50.84007995431898,2,2,"Seram Bagian Timur, Maluku",Maluku Tengah; Seram Bagian Timur,Maluku,Seram Bagian Timur,Maluku,Pusat grid di dalam polygon administrasi,136,-3.5,130.5
+-9.0_112.0,50.65914685324525,2,2,"Grid mencakup Malang, Jawa Timur (pusat di luar polygon administrasi)",Blitar; Kediri; Kota Blitar; Kota Malang; Lumajang; Malang; Tulungagung,Jawa Timur,Malang,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,137,-8.5,112.5
+-2.0_140.0,50.428893143279595,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,138,-1.5,140.5
+-1.0_126.0,50.019681112720576,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,139,-0.5,126.5
+-2.0_100.0,49.812398345970436,2,2,"Grid mencakup Pesisir Selatan, Sumatera Barat (pusat di luar polygon administrasi)",; Kota Padang; Pesisir Selatan; Solok; Solok Selatan,Sumatera Barat,Pesisir Selatan,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,140,-1.5,100.5
+-3.0_130.0,49.34032545890993,2,2,"Grid mencakup Raja Ampat, Papua Barat Daya (pusat di luar polygon administrasi)",Maluku Tengah; Raja Ampat; Seram Bagian Timur,Maluku; Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,141,-2.5,130.5
+-5.0_134.0,49.22549717442128,2,2,"Grid mencakup Kaimana, Papua Barat (pusat di luar polygon administrasi)",Kaimana; Mimika,Papua Barat; Papua Tengah,Kaimana,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,142,-4.5,134.5
+-9.0_109.0,48.88212622872254,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,143,-8.5,109.5
+1.0_128.0,48.70498247190113,2,2,"Halmahera Timur, Maluku Utara",Halmahera Timur; Halmahera Utara; Pulau Morotai,Maluku Utara,Halmahera Timur,Maluku Utara,Pusat grid di dalam polygon administrasi,144,1.5,128.5
+-10.0_110.0,48.484223225480775,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,145,-9.5,110.5
+-4.0_122.0,48.47956444918245,2,2,"Grid mencakup Konawe Utara, Sulawesi Tenggara (pusat di luar polygon administrasi)",Konawe; Konawe Kepulauan; Konawe Selatan; Konawe Utara; Morowali,Sulawesi Tengah; Sulawesi Tenggara,Konawe Utara,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,146,-3.5,122.5
+-1.0_134.0,48.469832349845085,2,2,"Grid mencakup Manokwari, Papua Barat (pusat di luar polygon administrasi)",Biak Numfor; Manokwari,Papua; Papua Barat,Manokwari,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,147,-0.5,134.5
+-5.0_132.0,48.43384378524308,2,2,"Grid mencakup Kaimana, Papua Barat (pusat di luar polygon administrasi)",Kaimana,Papua Barat,Kaimana,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,148,-4.5,132.5
+-7.0_121.0,48.42300484007202,2,2,"Grid mencakup Kepulauan Selayar, Sulawesi Selatan (pusat di luar polygon administrasi)",Kepulauan Selayar,Sulawesi Selatan,Kepulauan Selayar,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,149,-6.5,121.5
+-3.0_141.0,48.154596723923234,2,2,"Grid mencakup Kota Jayapura, Papua (pusat di luar polygon administrasi)",Keerom; Kota Jayapura,Papua,Kota Jayapura,Papua,Pusat di luar polygon; grid beririsan dengan daratan,150,-2.5,141.5
+-3.0_101.0,47.75379599914611,2,2,"Muko Muko, Bengkulu",Bengkulu Utara; Kerinci; Kota Sungai Penuh; Lebong; Merangin; Muko Muko; Pesisir Selatan,Bengkulu; Jambi; Sumatera Barat,Muko Muko,Bengkulu,Pusat grid di dalam polygon administrasi,151,-2.5,101.5
+-2.0_118.0,47.54902543885164,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,152,-1.5,118.5
+-4.0_136.0,47.21227528152718,2,2,"Intan Jaya, Papua Tengah",Deiyai; Dogiyai; Intan Jaya; Nabire; Paniai; Puncak; Waropen,Papua; Papua Tengah,Paniai,Papua Tengah,Pusat grid di dalam polygon administrasi,153,-3.5,136.5
+-10.0_111.0,47.20481853492131,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,154,-9.5,111.5
+-4.0_132.0,47.02865921409981,2,2,"Grid mencakup Fak Fak, Papua Barat (pusat di luar polygon administrasi)",Fak Fak; Kaimana,Papua Barat,Fak Fak,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,155,-3.5,132.5
+-10.0_125.0,47.0182321696775,2,2,"Grid mencakup Belu, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Belu; Malaka,Nusa Tenggara Timur,Belu,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,156,-9.5,125.5
+0.0_119.0,47.01097840462019,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,157,0.5,119.5
+-1.0_133.0,46.89795454370774,2,2,"Grid mencakup Tambrauw, Papua Barat Daya (pusat di luar polygon administrasi)",Manokwari; Pegunungan Arfak; Tambrauw,Papua Barat; Papua Barat Daya,Tambrauw,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,158,-0.5,133.5
+-5.0_122.0,46.740525749596806,2,2,"Grid mencakup Konawe Selatan, Sulawesi Tenggara (pusat di luar polygon administrasi)",Bombana; Buton Utara; Kolaka Timur; Konawe; Konawe Kepulauan; Konawe Selatan; Muna; Muna Barat,Sulawesi Tenggara,Konawe Selatan,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,159,-4.5,122.5
+-4.0_102.0,46.614687738402765,2,2,"Kepahiang, Bengkulu",Bengkulu Tengah; Bengkulu Utara; Empat Lawang; Kepahiang; Kota Bengkulu; Kota Lubuk Linggau; Lebong; Musi Rawas; Musi Rawas Utara; Rejang Lebong; Seluma,Bengkulu; Sumatera Selatan,Bengkulu Utara,Bengkulu,Pusat grid di dalam polygon administrasi,160,-3.5,102.5
+0.0_97.0,46.57775182231311,2,2,"Grid mencakup Nias Selatan, Sumatera Utara (pusat di luar polygon administrasi)",Nias; Nias Barat; Nias Selatan,Sumatera Utara,Nias Selatan,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,161,0.5,97.5
+-5.0_129.0,46.45604708845194,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah,Maluku,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,162,-4.5,129.5
+-9.0_111.0,46.43043115973509,2,2,"Grid mencakup Trenggalek, Jawa Timur (pusat di luar polygon administrasi)",Blitar; Kediri; Pacitan; Ponorogo; Trenggalek; Tulungagung; Wonogiri,Jawa Tengah; Jawa Timur,Trenggalek,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,163,-8.5,111.5
+-2.0_123.0,46.333880598155645,2,2,"Grid mencakup Banggai Kepulauan, Sulawesi Tengah (pusat di luar polygon administrasi)",Banggai; Banggai Kepulauan; Banggai Laut,Sulawesi Tengah,Banggai Kepulauan,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,164,-1.5,123.5
+-4.0_101.0,46.22750949415041,2,2,"Grid mencakup Bengkulu Utara, Bengkulu (pusat di luar polygon administrasi)",Bengkulu Utara; Muko Muko,Bengkulu,Bengkulu Utara,Bengkulu,Pusat di luar polygon; grid beririsan dengan daratan,165,-3.5,101.5
+-5.0_133.0,46.12700265596746,2,2,"Grid mencakup Kaimana, Papua Barat (pusat di luar polygon administrasi)",Kaimana,Papua Barat,Kaimana,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,166,-4.5,133.5
+-8.0_110.0,46.10202817167554,2,2,"Grid mencakup Wonogiri, Jawa Tengah (pusat di luar polygon administrasi)",Karanganyar; Kota Surakarta; Pati; Sragen; Sukoharjo; Wonogiri,Jawa Tengah,Wonogiri,Jawa Tengah,Pusat di luar polygon; grid beririsan dengan daratan,167,-7.5,110.5
+-4.0_135.0,45.84200573567111,2,2,"Nabire, Papua Tengah",Dogiyai; Kaimana; Nabire; Paniai,Papua Barat; Papua Tengah,Nabire,Papua Tengah,Pusat grid di dalam polygon administrasi,168,-3.5,135.5
+4.0_96.0,45.77889877114457,2,2,"Nagan Raya, Aceh",Aceh Barat; Aceh Barat Daya; Aceh Jaya; Aceh Tengah; Aceh Utara; Bener Meriah; Bireuen; Gayo Lues; Nagan Raya; Pidie; Pidie Jaya,Aceh,Aceh Tengah,Aceh,Pusat grid di dalam polygon administrasi,169,4.5,96.5
+-8.0_104.0,45.7233725795228,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,170,-7.5,104.5
+-7.0_130.0,45.71391331719224,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah,Maluku,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,171,-6.5,130.5
+-11.0_112.0,45.44964040963774,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,172,-10.5,112.5
+-9.0_110.0,45.422248512608576,2,2,"Grid mencakup Wonogiri, Jawa Tengah (pusat di luar polygon administrasi)",Pacitan; Wonogiri,Jawa Tengah; Jawa Timur,Wonogiri,Jawa Tengah,Pusat di luar polygon; grid beririsan dengan daratan,173,-8.5,110.5
+-7.0_129.0,45.14910556342274,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah,Maluku,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,174,-6.5,129.5
+-5.0_101.0,45.003888180983,2,2,"Grid mencakup Bengkulu Utara, Bengkulu (pusat di luar polygon administrasi)",Bengkulu Utara,Bengkulu,Bengkulu Utara,Bengkulu,Pusat di luar polygon; grid beririsan dengan daratan,175,-4.5,101.5
+-8.0_111.0,44.67638756668771,2,2,"Ngawi, Jawa Timur",Blitar; Blora; Bojonegoro; Karanganyar; Kediri; Kota Kediri; Kota Madiun; Madiun; Magetan; Nganjuk; Ngawi; Pacitan; Ponorogo; Sragen; Trenggalek; Tuban; Tulungagung; Wonogiri,Jawa Tengah; Jawa Timur,Bojonegoro,Jawa Timur,Pusat grid di dalam polygon administrasi,176,-7.5,111.5
+-11.0_111.0,44.37475237280326,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,177,-10.5,111.5
+3.0_125.0,44.3498459847022,2,2,"Kepulauan Sangihe, Sulawesi Utara",Kepulauan Sangihe,Sulawesi Utara,Kepulauan Sangihe,Sulawesi Utara,Pusat grid di dalam polygon administrasi,178,3.5,125.5
+4.0_126.0,44.301184012510966,2,2,"Grid mencakup Kepulauan Talaud, Sulawesi Utara (pusat di luar polygon administrasi)",Kepulauan Talaud,Sulawesi Utara,Kepulauan Talaud,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,179,4.5,126.5
+3.0_127.0,44.22989669375336,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,180,3.5,127.5
+-5.0_120.0,43.836160767842756,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,181,-4.5,120.5
+-11.0_124.0,43.395569259154286,2,2,"Grid mencakup Timor Tengah Selatan, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Kupang; Timor Tengah Selatan,Nusa Tenggara Timur,Timor Tengah Selatan,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,182,-10.5,124.5
+1.0_99.0,42.68682435925412,2,2,"Padang Lawas Utara, Sumatera Utara",Kota Padang Sidempuan; Labuhanbatu; Labuhanbatu Selatan; Labuhanbatu Utara; Mandailing Natal; Padang Lawas; Padang Lawas Utara; Tapanuli Selatan; Tapanuli Tengah; Tapanuli Utara,Sumatera Utara,Tapanuli Selatan,Sumatera Utara,Pusat grid di dalam polygon administrasi,183,1.5,99.5
+-3.0_126.0,42.152884517189484,2,2,"Grid mencakup Kepulauan Sula, Maluku Utara (pusat di luar polygon administrasi)",Kepulauan Sula,Maluku Utara,Kepulauan Sula,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,184,-2.5,126.5
+-6.0_101.0,42.146604073482585,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,185,-5.5,101.5
+-5.0_121.0,42.05971490144702,2,2,"Kolaka, Sulawesi Tenggara",Bombana; Kolaka; Kolaka Timur; Konawe; Konawe Selatan,Sulawesi Tenggara,Bombana,Sulawesi Tenggara,Pusat grid di dalam polygon administrasi,186,-4.5,121.5
+-2.0_128.0,41.652158663830235,2,2,"Grid mencakup Halmahera Selatan, Maluku Utara (pusat di luar polygon administrasi)",Halmahera Selatan,Maluku Utara,Halmahera Selatan,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,187,-1.5,128.5
+-11.0_114.0,41.323088079250645,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,188,-10.5,114.5
+-5.0_135.0,40.904786237450566,2,2,"Grid mencakup Mimika, Papua Tengah (pusat di luar polygon administrasi)",Dogiyai; Kaimana; Mimika,Papua Barat; Papua Tengah,Mimika,Papua Tengah,Pusat di luar polygon; grid beririsan dengan daratan,189,-4.5,135.5
+2.0_98.0,40.763173436537066,2,2,"Samosir, Sumatera Utara",; Aceh Singkil; Dairi; Humbang Hasundutan; Karo; Kota Subulussalam; Pakpak Bharat; Samosir; Simalungun; Tapanuli Tengah; Tapanuli Utara; Toba,; Aceh; Sumatera Utara,Humbang Hasundutan,Sumatera Utara,Pusat grid di dalam polygon administrasi,190,2.5,98.5
+-3.0_118.0,40.62453848668625,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,191,-2.5,118.5
+0.0_100.0,40.028402158410564,2,2,"Rokan Hulu, Riau",Kampar; Lima Puluh Kota; Padang Lawas; Pasaman; Pasaman Barat; Rokan Hulu; Siak,Riau; Sumatera Barat; Sumatera Utara,Rokan Hulu,Riau,Pusat grid di dalam polygon administrasi,192,0.5,100.5
+-1.0_119.0,39.86842544276784,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,193,-0.5,119.5
+-8.0_123.0,39.407015972790845,2,2,"Grid mencakup Lembata, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Lembata,Nusa Tenggara Timur,Lembata,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,194,-7.5,123.5
+-9.0_105.0,39.35293702419338,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,195,-8.5,105.5
+-1.0_131.0,38.719785253200996,2,2,"Grid mencakup Sorong, Papua Barat Daya (pusat di luar polygon administrasi)",Kota Sorong; Raja Ampat; Sorong; Tambrauw,Papua Barat Daya,Sorong,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,196,-0.5,131.5
+-9.0_125.0,38.499671453727665,2,2,"Grid mencakup Alor, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Alor; Belu; Maluku Barat Daya,Maluku; Nusa Tenggara Timur,Alor,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,197,-8.5,125.5
+-6.0_129.0,38.41842232012171,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,198,-5.5,129.5
+2.0_96.0,37.93714648827812,2,2,"Grid mencakup Simeulue, Aceh (pusat di luar polygon administrasi)",Simeulue,Aceh,Simeulue,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,199,2.5,96.5
+-3.0_137.0,37.627283034515685,2,2,"Mamberamo Raya, Papua",Mamberamo Raya; Puncak Jaya; Waropen,Papua; Papua Tengah,Mamberamo Raya,Papua,Pusat grid di dalam polygon administrasi,200,-2.5,137.5
+-2.0_131.0,36.867062232709365,2,2,"Grid mencakup Sorong, Papua Barat Daya (pusat di luar polygon administrasi)",Raja Ampat; Sorong; Sorong Selatan,Papua Barat Daya,Sorong,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,201,-1.5,131.5
+-7.0_109.0,36.750535286804315,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,202,-6.5,109.5
+-11.0_115.0,36.69455197808775,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,203,-10.5,115.5
+-5.0_119.0,36.00556094114906,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,204,-4.5,119.5
+2.0_128.0,35.95537751873374,2,2,"Pulau Morotai, Maluku Utara",Halmahera Utara; Pulau Morotai,Maluku Utara,Pulau Morotai,Maluku Utara,Pusat grid di dalam polygon administrasi,205,2.5,128.5
+-4.0_100.0,35.922834700679324,2,2,"Grid mencakup Kepulauan Mentawai, Sumatera Barat (pusat di luar polygon administrasi)",Kepulauan Mentawai,Sumatera Barat,Kepulauan Mentawai,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,206,-3.5,100.5
+-8.0_115.0,35.844363863747326,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,207,-7.5,115.5
+-3.0_100.0,35.366475791299315,2,2,"Grid mencakup Kepulauan Mentawai, Sumatera Barat (pusat di luar polygon administrasi)",Kepulauan Mentawai; Pesisir Selatan,Sumatera Barat,Kepulauan Mentawai,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,208,-2.5,100.5
+-2.0_137.0,34.97812965753327,2,2,"Grid mencakup Mamberamo Raya, Papua (pusat di luar polygon administrasi)",Kepulauan Yapen; Mamberamo Raya,Papua,Mamberamo Raya,Papua,Pusat di luar polygon; grid beririsan dengan daratan,209,-1.5,137.5
+-1.0_127.0,33.860613727402864,2,2,"Halmahera Selatan, Maluku Utara",Halmahera Selatan; Kota Tidore Kepulauan,Maluku Utara,Halmahera Selatan,Maluku Utara,Pusat grid di dalam polygon administrasi,210,-0.5,127.5
+-2.0_136.0,33.28946639791813,2,2,"Grid mencakup Kepulauan Yapen, Papua (pusat di luar polygon administrasi)",Biak Numfor; Kepulauan Yapen,Papua,Kepulauan Yapen,Papua,Pusat di luar polygon; grid beririsan dengan daratan,211,-1.5,136.5
+4.0_94.0,33.169082947024975,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,212,4.5,94.5
+4.0_97.0,32.93486361724216,2,2,"Aceh Timur, Aceh",Aceh Tamiang; Aceh Tengah; Aceh Timur; Aceh Utara; Bener Meriah; Gayo Lues; Kota Langsa,Aceh,Aceh Timur,Aceh,Pusat grid di dalam polygon administrasi,213,4.5,97.5
+1.0_124.0,32.92516587840436,2,2,"Grid mencakup Minahasa, Sulawesi Utara (pusat di luar polygon administrasi)",Bolaang Mongondow; Kota Manado; Kota Tomohon; Minahasa; Minahasa Selatan; Minahasa Tenggara; Minahasa Utara,Sulawesi Utara,Minahasa,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,214,1.5,124.5
+-7.0_108.0,32.81242777095241,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,215,-6.5,108.5
+-6.0_128.0,32.519290939415704,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,216,-5.5,128.5
+-6.0_130.0,32.46785419207246,2,2,"Grid mencakup Maluku Tengah, Maluku (pusat di luar polygon administrasi)",Maluku Tengah,Maluku,Maluku Tengah,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,217,-5.5,130.5
+-5.0_131.0,31.439060033643987,2,2,"Grid mencakup Seram Bagian Timur, Maluku (pusat di luar polygon administrasi)",Seram Bagian Timur,Maluku,Seram Bagian Timur,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,218,-4.5,131.5
+-5.0_127.0,31.314708936142164,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,219,-4.5,127.5
+-3.0_136.0,31.292867996543006,2,2,"Waropen, Papua",Mamberamo Raya; Nabire; Waropen,Papua; Papua Tengah,Waropen,Papua,Pusat grid di dalam polygon administrasi,220,-2.5,136.5
+-8.0_103.0,31.0441987438394,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,221,-7.5,103.5
+-7.0_110.0,30.975312947859138,2,2,"Grid mencakup Pati, Jawa Tengah (pusat di luar polygon administrasi)",Kudus; Pati,Jawa Tengah,Pati,Jawa Tengah,Pusat di luar polygon; grid beririsan dengan daratan,222,-6.5,110.5
+4.0_125.0,30.844761160190437,2,2,"Grid mencakup Kepulauan Sangihe, Sulawesi Utara (pusat di luar polygon administrasi)",Kepulauan Sangihe,Sulawesi Utara,Kepulauan Sangihe,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,223,4.5,125.5
+-3.0_123.0,30.811683200426142,2,2,"Grid mencakup Banggai Laut, Sulawesi Tengah (pusat di luar polygon administrasi)",Banggai Laut,Sulawesi Tengah,Banggai Laut,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,224,-2.5,123.5
+2.0_125.0,30.451120375683498,2,2,"Grid mencakup Kep. Siau Tagulandang Biaro, Sulawesi Utara (pusat di luar polygon administrasi)",Kep. Siau Tagulandang Biaro; Kepulauan Sangihe,Sulawesi Utara,Kep. Siau Tagulandang Biaro,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,225,2.5,125.5
+-6.0_131.0,30.179870253963312,2,2,"Grid mencakup Kota Tual, Maluku (pusat di luar polygon administrasi)",Kota Tual,Maluku,Kota Tual,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,226,-5.5,131.5
+1.0_123.0,30.088864303297193,2,2,"Grid mencakup Bolaang Mongondow Utara, Sulawesi Utara (pusat di luar polygon administrasi)",Bolaang Mongondow Utara,Sulawesi Utara,Bolaang Mongondow Utara,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,227,1.5,123.5
+-8.0_129.0,29.956183923827464,2,2,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,228,-7.5,129.5
+-7.0_119.0,29.77134371994063,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,229,-6.5,119.5
+4.0_127.0,29.36322496161231,2,2,"Grid mencakup Kepulauan Talaud, Sulawesi Utara (pusat di luar polygon administrasi)",Kepulauan Talaud,Sulawesi Utara,Kepulauan Talaud,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,230,4.5,127.5
+-5.0_138.0,28.418198599787075,2,2,"Nduga, Papua Pegunungan",Asmat; Jayawijaya; Lanny Jaya; Nduga; Puncak; Yahukimo,Papua Pegunungan; Papua Selatan; Papua Tengah,Nduga,Papua Pegunungan,Pusat grid di dalam polygon administrasi,231,-4.5,138.5
+5.0_96.0,28.0208532408972,2,2,"Grid mencakup Bireuen, Aceh (pusat di luar polygon administrasi)",Aceh Utara; Bireuen; Pidie; Pidie Jaya,Aceh,Bireuen,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,232,5.5,96.5
+1.0_96.0,27.96354457126815,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,233,1.5,96.5
+-4.0_126.0,27.80040956618648,2,2,"Buru Selatan, Maluku",Buru; Buru Selatan,Maluku,Buru,Maluku,Pusat grid di dalam polygon administrasi,234,-3.5,126.5
+-2.0_138.0,27.08375936597017,2,2,"Grid mencakup Sarmi, Papua (pusat di luar polygon administrasi)",Mamberamo Raya; Sarmi,Papua,Sarmi,Papua,Pusat di luar polygon; grid beririsan dengan daratan,235,-1.5,138.5
+-8.0_124.0,26.449680192184942,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,236,-7.5,124.5
+-7.0_112.0,26.432926144698566,2,2,"Grid mencakup Lamongan, Jawa Timur (pusat di luar polygon administrasi)",Bangkalan; Gresik; Lamongan; Tuban,Jawa Timur,Lamongan,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,237,-6.5,112.5
+-2.0_98.0,26.11926410734626,2,2,"Grid mencakup Kepulauan Mentawai, Sumatera Barat (pusat di luar polygon administrasi)",Kepulauan Mentawai,Sumatera Barat,Kepulauan Mentawai,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,238,-1.5,98.5
+-8.0_114.0,25.90950316294043,2,2,"Grid mencakup Situbondo, Jawa Timur (pusat di luar polygon administrasi)",Banyuwangi; Bondowoso; Situbondo,Jawa Timur,Situbondo,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,239,-7.5,114.5
+-5.0_100.0,25.83789626798213,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,240,-4.5,100.5
+-5.0_140.0,25.764667057211874,2,2,"Pegunungan Bintang, Papua Pegunungan",Keerom; Pegunungan Bintang; Yahukimo,Papua; Papua Pegunungan,Pegunungan Bintang,Papua Pegunungan,Pusat grid di dalam polygon administrasi,241,-4.5,140.5
+-6.0_122.0,25.619613098170397,2,2,"Grid mencakup Buton, Sulawesi Tenggara (pusat di luar polygon administrasi)",Bombana; Buton; Buton Selatan; Buton Tengah; Buton Utara; Kota Bau Bau; Muna; Muna Barat,Sulawesi Tenggara,Buton,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,242,-5.5,122.5
+-11.0_113.0,25.603058985502592,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,243,-10.5,113.5
+-7.0_102.0,25.241360898255053,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,244,-6.5,102.5
+-7.0_111.0,25.16360660667705,2,2,"Grid mencakup Rembang, Jawa Tengah (pusat di luar polygon administrasi)",Blora; Bojonegoro; Pati; Rembang; Tuban,Jawa Tengah; Jawa Timur,Rembang,Jawa Tengah,Pusat di luar polygon; grid beririsan dengan daratan,245,-6.5,111.5
+-4.0_137.0,25.0552251111794,2,2,"Puncak, Papua Tengah",Intan Jaya; Lanny Jaya; Mamberamo Raya; Paniai; Puncak; Puncak Jaya; Waropen,Papua; Papua Pegunungan; Papua Tengah,Puncak,Papua Tengah,Pusat grid di dalam polygon administrasi,246,-3.5,137.5
+-1.0_130.0,24.932115726474375,2,2,"Raja Ampat, Papua Barat Daya",Raja Ampat,Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat grid di dalam polygon administrasi,247,-0.5,130.5
+-2.0_125.0,24.88485404687576,2,2,"Grid mencakup Kepulauan Sula, Maluku Utara (pusat di luar polygon administrasi)",Kepulauan Sula; Pulau Taliabu,Maluku Utara,Kepulauan Sula,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,248,-1.5,125.5
+-5.0_126.0,24.860668547493415,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,249,-4.5,126.5
+-7.0_128.0,24.642110293074953,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,250,-6.5,128.5
+-7.0_122.0,24.633815785912837,2,2,"Grid mencakup Buton Selatan, Sulawesi Tenggara (pusat di luar polygon administrasi)",Buton Selatan; Kepulauan Selayar,Sulawesi Selatan; Sulawesi Tenggara,Buton Selatan,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,251,-6.5,122.5
+-3.0_131.0,24.311070680025793,2,2,"Grid mencakup Fak Fak, Papua Barat (pusat di luar polygon administrasi)",Fak Fak,Papua Barat,Fak Fak,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,252,-2.5,131.5
+5.0_95.0,24.184090771812354,2,2,"Aceh Besar, Aceh",Aceh Besar; Aceh Jaya; Kota Banda Aceh; Kota Sabang; Pidie,Aceh,Aceh Besar,Aceh,Pusat grid di dalam polygon administrasi,253,5.5,95.5
+-4.0_131.0,23.920508215938387,2,2,"Grid mencakup Seram Bagian Timur, Maluku (pusat di luar polygon administrasi)",Seram Bagian Timur,Maluku,Seram Bagian Timur,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,254,-3.5,131.5
+-8.0_128.0,23.653039891347696,2,2,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,255,-7.5,128.5
+-10.0_108.0,23.211297301366358,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,256,-9.5,108.5
+0.0_128.0,23.10751721472392,2,2,"Halmahera Timur, Maluku Utara",Halmahera Tengah; Halmahera Timur,Maluku Utara,Halmahera Timur,Maluku Utara,Pusat grid di dalam polygon administrasi,257,0.5,128.5
+-11.0_110.0,23.09345118577979,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,258,-10.5,110.5
+-1.0_97.0,22.95919096791816,2,2,"Grid mencakup Nias Selatan, Sumatera Utara (pusat di luar polygon administrasi)",Nias Selatan,Sumatera Utara,Nias Selatan,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,259,-0.5,97.5
+5.0_126.0,22.859597318867195,2,2,"Grid mencakup Kepulauan Talaud, Sulawesi Utara (pusat di luar polygon administrasi)",Kepulauan Talaud,Sulawesi Utara,Kepulauan Talaud,Sulawesi Utara,Pusat di luar polygon; grid beririsan dengan daratan,260,5.5,126.5
+-4.0_123.0,22.85760314196616,2,2,"Grid mencakup Morowali, Sulawesi Tengah (pusat di luar polygon administrasi)",Konawe Kepulauan; Morowali,Sulawesi Tengah; Sulawesi Tenggara,Morowali,Sulawesi Tengah,Pusat di luar polygon; grid beririsan dengan daratan,261,-3.5,123.5
+-8.0_112.0,22.448916811981693,2,2,"Mojokerto, Jawa Timur",; Bangkalan; Blitar; Bojonegoro; Gresik; Jombang; Kediri; Kota Batu; Kota Kediri; Kota Malang; Kota Mojokerto; Kota Pasuruan; Kota Surabaya; Lamongan; Lumajang; Malang; Mojokerto; Nganjuk; Pasuruan; Probolinggo; Sidoarjo; Tuban,Jawa Timur,Lamongan,Jawa Timur,Pusat grid di dalam polygon administrasi,262,-7.5,112.5
+-7.0_118.0,22.241601319393897,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,263,-6.5,118.5
+-12.0_118.0,22.125142325536032,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,264,-11.5,118.5
+3.0_95.0,21.873773236908896,2,2,"Grid mencakup Simeulue, Aceh (pusat di luar polygon administrasi)",Simeulue,Aceh,Simeulue,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,265,3.5,95.5
+2.0_99.0,21.202888886337988,2,2,"Labuhanbatu Utara, Sumatera Utara",Asahan; Kota Pematangsiantar; Kota Tanjung Balai; Labuhanbatu; Labuhanbatu Utara; Padang Lawas Utara; Samosir; Simalungun; Tapanuli Selatan; Tapanuli Utara; Toba,Sumatera Utara,Labuhanbatu Utara,Sumatera Utara,Pusat grid di dalam polygon administrasi,266,2.5,99.5
+-8.0_130.0,20.96940016041769,2,2,"Grid mencakup Kepulauan Tanimbar, Maluku (pusat di luar polygon administrasi)",Kepulauan Tanimbar; Maluku Barat Daya,Maluku,Kepulauan Tanimbar,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,267,-7.5,130.5
+3.0_98.0,20.86444070908453,2,2,"Langkat, Sumatera Utara",Aceh Tamiang; Aceh Tenggara; Dairi; Deli Serdang; Karo; Kota Binjai; Kota Medan; Langkat; Serdang Bedagai; Simalungun,Aceh; Sumatera Utara,Langkat,Sumatera Utara,Pusat grid di dalam polygon administrasi,268,3.5,98.5
+-6.0_121.0,20.71633430143691,2,2,"Grid mencakup Bombana, Sulawesi Tenggara (pusat di luar polygon administrasi)",Bombana; Buton Tengah,Sulawesi Tenggara,Bombana,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,269,-5.5,121.5
+-11.0_122.0,20.262604613530563,2,2,"Grid mencakup Rote Ndao, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Rote Ndao; Sabu Raijua,Nusa Tenggara Timur,Rote Ndao,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,270,-10.5,122.5
+1.0_119.0,20.142463723014146,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,271,1.5,119.5
+-6.0_113.0,19.937177056038106,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,272,-5.5,113.5
+-6.0_133.0,19.834721944148214,2,2,"Grid mencakup Maluku Tenggara, Maluku (pusat di luar polygon administrasi)",Maluku Tenggara,Maluku,Maluku Tenggara,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,273,-5.5,133.5
+-4.0_118.0,19.481974740358492,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,274,-3.5,118.5
+-3.0_132.0,18.905399081025735,2,2,"Grid mencakup Fak Fak, Papua Barat (pusat di luar polygon administrasi)",Fak Fak; Sorong Selatan; Teluk Bintuni,Papua Barat; Papua Barat Daya,Fak Fak,Papua Barat,Pusat di luar polygon; grid beririsan dengan daratan,275,-2.5,132.5
+-1.0_128.0,18.61620064918395,2,2,"Grid mencakup Halmahera Selatan, Maluku Utara (pusat di luar polygon administrasi)",Halmahera Selatan,Maluku Utara,Halmahera Selatan,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,276,-0.5,128.5
+-2.0_124.0,18.614603533441496,2,2,"Grid mencakup Pulau Taliabu, Maluku Utara (pusat di luar polygon administrasi)",Banggai Laut; Pulau Taliabu,Maluku Utara; Sulawesi Tengah,Pulau Taliabu,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,277,-1.5,124.5
+-5.0_141.0,18.507559803939213,2,2,"Grid mencakup Pegunungan Bintang, Papua Pegunungan (pusat di luar polygon administrasi)",Keerom; Pegunungan Bintang,Papua; Papua Pegunungan,Pegunungan Bintang,Papua Pegunungan,Pusat di luar polygon; grid beririsan dengan daratan,278,-4.5,141.5
+-11.0_121.0,18.26213298839753,2,2,"Grid mencakup Sabu Raijua, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Sabu Raijua,Nusa Tenggara Timur,Sabu Raijua,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,279,-10.5,121.5
+3.0_128.0,18.19300464135924,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,280,3.5,128.5
+-4.0_141.0,18.03745364066557,2,2,"Grid mencakup Keerom, Papua (pusat di luar polygon administrasi)",Keerom,Papua,Keerom,Papua,Pusat di luar polygon; grid beririsan dengan daratan,281,-3.5,141.5
+-5.0_139.0,18.02267210028054,2,2,"Yahukimo, Papua Pegunungan",Asmat; Jayawijaya; Yahukimo; Yalimo,Papua Pegunungan; Papua Selatan,Yahukimo,Papua Pegunungan,Pusat grid di dalam polygon administrasi,282,-4.5,139.5
+-5.0_112.0,17.748297715885872,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,283,-4.5,112.5
+-7.0_131.0,17.703384705309613,2,2,"Grid mencakup Kepulauan Tanimbar, Maluku (pusat di luar polygon administrasi)",Kepulauan Tanimbar,Maluku,Kepulauan Tanimbar,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,284,-6.5,131.5
+-2.0_101.0,17.54418846486209,2,2,"Solok Selatan, Sumatera Barat",Bungo; Dharmasraya; Kerinci; Merangin; Pesisir Selatan; Solok; Solok Selatan; Tebo,Jambi; Sumatera Barat,Solok Selatan,Sumatera Barat,Pusat grid di dalam polygon administrasi,285,-1.5,101.5
+-1.0_135.0,17.520508475200444,2,2,"Grid mencakup Biak Numfor, Papua (pusat di luar polygon administrasi)",Biak Numfor; Supiori,Papua,Biak Numfor,Papua,Pusat di luar polygon; grid beririsan dengan daratan,286,-0.5,135.5
+-6.0_112.0,17.513419269656527,2,2,"Grid mencakup Gresik, Jawa Timur (pusat di luar polygon administrasi)",Gresik,Jawa Timur,Gresik,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,287,-5.5,112.5
+-8.0_113.0,17.43414687449225,2,2,"Grid mencakup Probolinggo, Jawa Timur (pusat di luar polygon administrasi)",Bangkalan; Bondowoso; Jember; Kota Probolinggo; Lumajang; Pamekasan; Pasuruan; Probolinggo; Sampang; Situbondo,Jawa Timur,Probolinggo,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,288,-7.5,113.5
+-4.0_103.0,17.381132616597434,2,2,"Musi Rawas, Sumatera Selatan",Empat Lawang; Kota Pagar Alam; Lahat; Muara Enim; Musi Banyuasin; Musi Rawas; Ogan Komering Ulu; Penukal Abab Lematang Ilir; Rejang Lebong,Bengkulu; Sumatera Selatan,Lahat,Sumatera Selatan,Pusat grid di dalam polygon administrasi,289,-3.5,103.5
+-3.0_102.0,17.1151369503674,2,2,"Sarolangun, Jambi",Bengkulu Utara; Lebong; Merangin; Musi Rawas; Musi Rawas Utara; Sarolangun,Bengkulu; Jambi; Sumatera Selatan,Sarolangun,Jambi,Pusat grid di dalam polygon administrasi,290,-2.5,102.5
+-5.0_123.0,17.080302213355523,2,2,"Grid mencakup Buton Utara, Sulawesi Tenggara (pusat di luar polygon administrasi)",Buton Utara; Konawe Kepulauan,Sulawesi Tenggara,Buton Utara,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,291,-4.5,123.5
+-10.0_107.0,16.92708971518712,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,292,-9.5,107.5
+5.0_125.0,16.026974836011625,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,293,5.5,125.5
+-6.0_107.0,15.797095962581746,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,294,-5.5,107.5
+-6.0_120.0,15.278723839168125,2,2,"Grid mencakup Kepulauan Selayar, Sulawesi Selatan (pusat di luar polygon administrasi)",; Kepulauan Selayar,Sulawesi Selatan,Kepulauan Selayar,Sulawesi Selatan,Pusat di luar polygon; grid beririsan dengan daratan,295,-5.5,120.5
+5.0_94.0,15.172831373433263,2,2,"Grid mencakup Aceh Besar, Aceh (pusat di luar polygon administrasi)",Aceh Besar,Aceh,Aceh Besar,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,296,5.5,94.5
+-1.0_129.0,14.689313736242664,1,0,"Grid mencakup Halmahera Tengah, Maluku Utara (pusat di luar polygon administrasi)",Halmahera Tengah; Raja Ampat,Maluku Utara; Papua Barat Daya,Halmahera Tengah,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,297,-0.5,129.5
+-3.0_99.0,14.336555180335946,2,2,"Grid mencakup Kepulauan Mentawai, Sumatera Barat (pusat di luar polygon administrasi)",Kepulauan Mentawai,Sumatera Barat,Kepulauan Mentawai,Sumatera Barat,Pusat di luar polygon; grid beririsan dengan daratan,298,-2.5,99.5
+-8.0_127.0,14.254382324998094,2,2,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,299,-7.5,127.5
+0.0_132.0,14.11711216270765,2,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,300,0.5,132.5
+-6.0_123.0,14.01158483827028,1,0,"Grid mencakup Buton, Sulawesi Tenggara (pusat di luar polygon administrasi)",Buton; Wakatobi,Sulawesi Tenggara,Buton,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,301,-5.5,123.5
+-8.0_125.0,13.774830559937499,1,0,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,302,-7.5,125.5
+2.0_129.0,13.603674455939615,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,303,2.5,129.5
+-9.0_126.0,13.559941519514258,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,304,-8.5,126.5
+-6.0_111.0,13.301407093054056,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,305,-5.5,111.5
+0.0_96.0,12.849591771028635,2,2,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,306,0.5,96.5
+-6.0_119.0,12.622104504612597,2,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,307,-5.5,119.5
+0.0_118.0,11.8900094424129,2,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,308,0.5,118.5
+-6.0_106.0,11.76310714168725,2,0,"Grid mencakup Serang, Banten (pusat di luar polygon administrasi)",Adm. Kep. Seribu; Kota Cilegon; Lampung Timur; Serang,Banten; DKI Jakarta; Lampung,Serang,Banten,Pusat di luar polygon; grid beririsan dengan daratan,309,-5.5,106.5
+-6.0_132.0,11.666778638938695,1,0,"Grid mencakup Maluku Tenggara, Maluku (pusat di luar polygon administrasi)",Kota Tual; Maluku Tenggara,Maluku,Maluku Tenggara,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,310,-5.5,132.5
+0.0_131.0,11.210132885541844,2,0,"Grid mencakup Raja Ampat, Papua Barat Daya (pusat di luar polygon administrasi)",Raja Ampat,Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,311,0.5,131.5
+-12.0_119.0,10.572118013567318,2,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,312,-11.5,119.5
+-10.0_126.0,10.448771242032128,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,313,-9.5,126.5
+-12.0_112.0,10.111202992862754,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,314,-11.5,112.5
+6.0_95.0,10.025717327227515,2,0,"Grid mencakup Kota Sabang, Aceh (pusat di luar polygon administrasi)",Kota Sabang,Aceh,Kota Sabang,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,315,6.5,95.5
+-5.0_136.0,10.01965335543249,2,0,"Mimika, Papua Tengah",Deiyai; Dogiyai; Mimika; Paniai,Papua Tengah,Mimika,Papua Tengah,Pusat grid di dalam polygon administrasi,316,-4.5,136.5
+2.0_124.0,9.993006723138787,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,317,2.5,124.5
+-3.0_125.0,9.853567130698936,1,0,"Grid mencakup Kepulauan Sula, Maluku Utara (pusat di luar polygon administrasi)",Kepulauan Sula,Maluku Utara,Kepulauan Sula,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,318,-2.5,125.5
+-7.0_117.0,9.820643431250248,2,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,319,-6.5,117.5
+-1.0_101.0,9.55695769524808,2,0,"Kuantan Singingi, Riau",Dharmasraya; Indragiri Hulu; Kampar; Kuantan Singingi; Pelalawan; Sijunjung; Solok; Tebo,Jambi; Riau; Sumatera Barat,Kuantan Singingi,Riau,Pusat grid di dalam polygon administrasi,320,-0.5,101.5
+3.0_124.0,9.356868087223539,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,321,3.5,124.5
+-1.0_136.0,9.223427348529501,1,0,"Grid mencakup Biak Numfor, Papua (pusat di luar polygon administrasi)",Biak Numfor,Papua,Biak Numfor,Papua,Pusat di luar polygon; grid beririsan dengan daratan,322,-0.5,136.5
+-7.0_124.0,9.200364544436761,1,0,"Grid mencakup Wakatobi, Sulawesi Tenggara (pusat di luar polygon administrasi)",Wakatobi,Sulawesi Tenggara,Wakatobi,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,323,-6.5,124.5
+-8.0_126.0,9.180161561262395,1,0,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,324,-7.5,126.5
+1.0_118.0,9.006950647081467,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,325,1.5,118.5
+-7.0_127.0,8.698458730978981,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,326,-6.5,127.5
+2.0_95.0,8.375772930835064,1,0,"Grid mencakup Simeulue, Aceh (pusat di luar polygon administrasi)",Simeulue,Aceh,Simeulue,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,327,2.5,95.5
+2.0_123.0,8.28144285471007,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,328,2.5,123.5
+2.0_122.0,7.952658491422788,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,329,2.5,122.5
+-5.0_118.0,7.942239011363317,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,330,-4.5,118.5
+-1.0_137.0,7.754824186845253,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,331,-0.5,137.5
+-1.0_118.0,7.751633850556388,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,332,-0.5,118.5
+-12.0_111.0,7.735404813915321,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,333,-11.5,111.5
+-7.0_123.0,7.593878486219303,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,334,-6.5,123.5
+-1.0_138.0,7.431448378478658,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,335,-0.5,138.5
+1.0_129.0,7.261935032499458,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,336,1.5,129.5
+-5.0_137.0,7.255286122535097,1,0,"Mimika, Papua Tengah",Asmat; Intan Jaya; Lanny Jaya; Mimika; Nduga; Paniai; Puncak,Papua Pegunungan; Papua Selatan; Papua Tengah,Mimika,Papua Tengah,Pusat grid di dalam polygon administrasi,337,-4.5,137.5
+-4.0_99.0,7.207094424686794,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,338,-3.5,99.5
+1.0_117.0,7.094488161887707,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,339,1.5,117.5
+2.0_121.0,7.056901068902662,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,340,2.5,121.5
+-6.0_127.0,6.868641397522393,1,0,"Grid mencakup Seram Bagian Barat, Maluku (pusat di luar polygon administrasi)",; Seram Bagian Barat,Maluku,Seram Bagian Barat,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,341,-5.5,127.5
+0.0_129.0,6.862531828312761,1,0,"Grid mencakup Halmahera Tengah, Maluku Utara (pusat di luar polygon administrasi)",; Halmahera Tengah; Raja Ampat,Maluku Utara; Papua Barat Daya,Halmahera Tengah,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,342,0.5,129.5
+-9.0_127.0,6.8250172175891946,1,0,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,343,-8.5,127.5
+-9.0_129.0,6.792295513392693,1,0,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,344,-8.5,129.5
+-6.0_140.0,6.733149471221851,1,0,"Boven Digoel, Papua Selatan",Boven Digoel; Pegunungan Bintang; Yahukimo,Papua Pegunungan; Papua Selatan,Boven Digoel,Papua Selatan,Pusat grid di dalam polygon administrasi,345,-5.5,140.5
+-6.0_134.0,6.7201217961143875,1,0,"Kepulauan Aru, Maluku",Kepulauan Aru,Maluku,Kepulauan Aru,Maluku,Pusat grid di dalam polygon administrasi,346,-5.5,134.5
+-6.0_118.0,6.624967122933936,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,347,-5.5,118.5
+-8.0_131.0,6.503885832405594,1,0,"Kepulauan Tanimbar, Maluku",Kepulauan Tanimbar,Maluku,Kepulauan Tanimbar,Maluku,Pusat grid di dalam polygon administrasi,348,-7.5,131.5
+-12.0_123.0,6.444306372053812,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,349,-11.5,123.5
+-11.0_125.0,6.33113422324971,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,350,-10.5,125.5
+4.0_124.0,6.308737640654063,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,351,4.5,124.5
+3.0_129.0,6.280627824757547,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,352,3.5,129.5
+1.0_100.0,6.242534214890243,1,0,"Rokan Hilir, Riau",Bengkalis; Labuhanbatu; Labuhanbatu Selatan; Padang Lawas; Padang Lawas Utara; Rokan Hilir; Rokan Hulu; Siak,Riau; Sumatera Utara,Rokan Hilir,Riau,Pusat grid di dalam polygon administrasi,353,1.5,100.5
+-4.0_117.0,6.123410725007191,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,354,-3.5,117.5
+-7.0_132.0,6.0953200580684985,1,0,"Grid mencakup Maluku Tenggara, Maluku (pusat di luar polygon administrasi)",Kepulauan Tanimbar; Maluku Tenggara,Maluku,Maluku Tenggara,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,355,-6.5,132.5
+5.0_127.0,6.087976356620846,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,356,5.5,127.5
+-4.0_124.0,5.847435984244507,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,357,-3.5,124.5
+-4.0_115.0,5.819322215622724,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,358,-3.5,115.5
+6.0_94.0,5.718874892602302,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,359,6.5,94.5
+-2.0_97.0,5.68158335656638,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,360,-1.5,97.5
+-3.0_98.0,5.643718456296917,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,361,-2.5,98.5
+5.0_124.0,5.5859989388978555,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,362,5.5,124.5
+-6.0_126.0,5.576649818831045,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,363,-5.5,126.5
+-12.0_117.0,5.526396246530431,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,364,-11.5,117.5
+-7.0_113.0,5.39371858447849,1,0,"Grid mencakup Sampang, Jawa Timur (pusat di luar polygon administrasi)",Bangkalan; Pamekasan; Sampang,Jawa Timur,Sampang,Jawa Timur,Pusat di luar polygon; grid beririsan dengan daratan,365,-6.5,113.5
+-6.0_100.0,5.373919420819398,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,366,-5.5,100.5
+-12.0_124.0,5.257343839960009,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,367,-11.5,124.5
+-12.0_116.0,5.154950782463653,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,368,-11.5,116.5
+-12.0_113.0,5.075351021338321,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,369,-11.5,113.5
+-7.0_133.0,4.951769214149927,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,370,-6.5,133.5
+-7.0_125.0,4.95115884698106,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,371,-6.5,125.5
+-1.0_96.0,4.913657515209363,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,372,-0.5,96.5
+0.0_130.0,4.893535627138459,1,0,"Grid mencakup Raja Ampat, Papua Barat Daya (pusat di luar polygon administrasi)",Raja Ampat,Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,373,0.5,130.5
+-9.0_128.0,4.884310139238686,1,0,"Grid mencakup Maluku Barat Daya, Maluku (pusat di luar polygon administrasi)",Maluku Barat Daya,Maluku,Maluku Barat Daya,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,374,-8.5,128.5
+-4.0_125.0,4.833662500372668,1,0,"Grid mencakup Buru Selatan, Maluku (pusat di luar polygon administrasi)",Buru Selatan,Maluku,Buru Selatan,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,375,-3.5,125.5
+-11.0_109.0,4.8003039811075,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,376,-10.5,109.5
+-7.0_114.0,4.7177127220665405,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,377,-6.5,114.5
+-6.0_139.0,4.653250704522474,1,0,"Asmat, Papua Selatan",Asmat; Boven Digoel; Mappi; Yahukimo,Papua Pegunungan; Papua Selatan,Asmat,Papua Selatan,Pusat grid di dalam polygon administrasi,378,-5.5,139.5
+-7.0_126.0,4.570513872775324,1,0,"Grid mencakup Kepulauan Tanimbar, Maluku (pusat di luar polygon administrasi)",Kepulauan Tanimbar,Maluku,Kepulauan Tanimbar,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,379,-6.5,126.5
+3.0_94.0,4.560487731379343,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,380,3.5,94.5
+-3.0_124.0,4.499103721573219,1,0,"Grid mencakup Pulau Taliabu, Maluku Utara (pusat di luar polygon administrasi)",Pulau Taliabu,Maluku Utara,Pulau Taliabu,Maluku Utara,Pusat di luar polygon; grid beririsan dengan daratan,381,-2.5,124.5
+0.0_135.0,4.429423315486566,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,382,0.5,135.5
+-12.0_120.0,4.279317898788463,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,383,-11.5,120.5
+0.0_133.0,4.261972398657996,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,384,0.5,133.5
+-2.0_102.0,4.180762604164749,1,0,"Tebo, Jambi",Batanghari; Bungo; Indragiri Hilir; Indragiri Hulu; Merangin; Sarolangun; Tanjung Jabung Barat; Tebo,Jambi; Riau,Tebo,Jambi,Pusat grid di dalam polygon administrasi,385,-1.5,102.5
+-7.0_115.0,4.062372066124652,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,386,-6.5,115.5
+6.0_125.0,3.945405780376485,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,387,6.5,125.5
+-3.0_115.0,3.8878912951775053,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,388,-2.5,115.5
+-12.0_110.0,3.822066733704412,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,389,-11.5,110.5
+-4.0_116.0,3.7410040135821,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,390,-3.5,116.5
+4.0_128.0,3.5995460104109496,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,391,4.5,128.5
+-10.0_106.0,3.5938640521986267,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,392,-9.5,106.5
+-5.0_124.0,3.582912477410925,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,393,-4.5,124.5
+2.0_120.0,3.505682906438531,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,394,2.5,120.5
+-3.0_117.0,3.4398647330319037,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,395,-2.5,117.5
+-6.0_125.0,3.3683565518137195,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,396,-5.5,125.5
+6.0_126.0,3.3190715103702138,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,397,6.5,126.5
+-12.0_115.0,3.260277827979045,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,398,-11.5,115.5
+-8.0_132.0,3.1936234366935534,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,399,-7.5,132.5
+2.0_118.0,3.1793556646824115,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,400,2.5,118.5
+3.0_123.0,3.0619861229972867,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,401,3.5,123.5
+-5.0_125.0,3.0340919814231517,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,402,-4.5,125.5
+-6.0_124.0,2.954269897784287,1,0,"Grid mencakup Wakatobi, Sulawesi Tenggara (pusat di luar polygon administrasi)",Wakatobi,Sulawesi Tenggara,Wakatobi,Sulawesi Tenggara,Pusat di luar polygon; grid beririsan dengan daratan,403,-5.5,124.5
+-5.0_142.0,2.746867053115083,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,404,-4.5,142.5
+-3.0_116.0,2.717484129728549,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,405,-2.5,116.5
+-5.0_105.0,2.6881223465814705,1,0,"Lampung Tengah, Lampung",Lampung Tengah; Lampung Timur; Lampung Utara; Mesuji; Ogan Komering Ilir; Tulang Bawang; Tulang Bawang Barat; Way Kanan,Lampung; Sumatera Selatan,Tulang Bawang,Lampung,Pusat grid di dalam polygon administrasi,406,-4.5,105.5
+0.0_117.0,2.6639999080317858,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,407,0.5,117.5
+3.0_122.0,2.65564415405815,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,408,3.5,122.5
+-12.0_122.0,2.6503145229209872,1,0,"Grid mencakup Rote Ndao, Nusa Tenggara Timur (pusat di luar polygon administrasi)",Rote Ndao,Nusa Tenggara Timur,Rote Ndao,Nusa Tenggara Timur,Pusat di luar polygon; grid beririsan dengan daratan,409,-11.5,122.5
+-1.0_139.0,2.641634851974887,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,410,-0.5,139.5
+-2.0_141.0,2.582356258422172,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,411,-1.5,141.5
+-3.0_103.0,2.5375007574137993,1,0,"Musi Banyuasin, Sumatera Selatan",Batanghari; Muaro Jambi; Musi Banyuasin; Musi Rawas; Musi Rawas Utara; Sarolangun,Jambi; Sumatera Selatan,Musi Banyuasin,Sumatera Selatan,Pusat grid di dalam polygon administrasi,412,-2.5,103.5
+4.0_98.0,2.4958142394166014,1,0,"Grid mencakup Aceh Tamiang, Aceh (pusat di luar polygon administrasi)",Aceh Tamiang; Aceh Timur; Kota Langsa; Langkat,Aceh; Sumatera Utara,Aceh Tamiang,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,413,4.5,98.5
+4.0_123.0,2.477305911521132,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,414,4.5,123.5
+-10.0_105.0,2.4585161445907335,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,415,-9.5,105.5
+0.0_95.0,2.4401794677272384,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,416,0.5,95.5
+-15.0_139.0,2.4175742647919987,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,417,-14.5,139.5
+-15.0_138.0,2.337578438434704,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,418,-14.5,138.5
+-15.0_137.0,2.3375780376224995,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,419,-14.5,137.5
+-13.0_112.0,2.2773975531481323,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,420,-12.5,112.5
+-6.0_136.0,2.262424854023707,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,421,-5.5,136.5
+-10.0_127.0,2.244521500132692,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,422,-9.5,127.5
+-7.0_101.0,2.1941521374158817,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,423,-6.5,101.5
+0.0_101.0,2.192528246707838,1,0,"Kota Pekanbaru, Riau",Bengkalis; Kampar; Kota Pekanbaru; Kuantan Singingi; Pelalawan; Siak,Riau,Kampar,Riau,Pusat grid di dalam polygon administrasi,424,0.5,101.5
+-4.0_104.0,2.158192363930123,1,0,"Ogan Ilir, Sumatera Selatan",Banyuasin; Kota Palembang; Kota Prabumulih; Muara Enim; Musi Banyuasin; Ogan Ilir; Ogan Komering Ilir; Ogan Komering Ulu; Ogan Komering Ulu Timur; Penukal Abab Lematang Ilir,Sumatera Selatan,Muara Enim,Sumatera Selatan,Pusat grid di dalam polygon administrasi,425,-3.5,104.5
+-7.0_134.0,2.153670538263307,1,0,"Grid mencakup Kepulauan Aru, Maluku (pusat di luar polygon administrasi)",Kepulauan Aru,Maluku,Kepulauan Aru,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,426,-6.5,134.5
+-3.0_114.0,2.1005448350584155,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,427,-2.5,114.5
+-9.0_130.0,2.087318514696878,1,0,"Grid mencakup Kepulauan Tanimbar, Maluku (pusat di luar polygon administrasi)",Kepulauan Tanimbar,Maluku,Kepulauan Tanimbar,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,428,-8.5,130.5
+1.0_116.0,2.079021730303757,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,429,1.5,116.5
+-11.0_107.0,2.0759821243605203,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,430,-10.5,107.5
+6.0_124.0,2.0632768016598915,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,431,6.5,124.5
+-2.0_114.0,2.060313194748506,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,432,-1.5,114.5
+5.0_97.0,2.0545781708475004,1,0,"Grid mencakup Aceh Utara, Aceh (pusat di luar polygon administrasi)",Aceh Timur; Aceh Utara; Kota Lhokseumawe,Aceh,Aceh Utara,Aceh,Pusat di luar polygon; grid beririsan dengan daratan,433,5.5,97.5
+-5.0_117.0,2.0303413995359465,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,434,-4.5,117.5
+-5.0_99.0,1.998371096322547,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,435,-4.5,99.5
+-6.0_141.0,1.934660186789187,1,0,"Grid mencakup Boven Digoel, Papua Selatan (pusat di luar polygon administrasi)",Boven Digoel; Pegunungan Bintang,Papua Pegunungan; Papua Selatan,Boven Digoel,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,436,-5.5,141.5
+0.0_134.0,1.9297090895325255,1,0,"Grid mencakup Supiori, Papua (pusat di luar polygon administrasi)",Supiori,Papua,Supiori,Papua,Pusat di luar polygon; grid beririsan dengan daratan,437,0.5,134.5
+3.0_121.0,1.9216491957908621,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,438,3.5,121.5
+-12.0_121.0,1.8828721614784836,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,439,-11.5,121.5
+-7.0_116.0,1.8816863029349993,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,440,-6.5,116.5
+-5.0_116.0,1.8541407887845345,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,441,-4.5,116.5
+0.0_116.0,1.8391141373294113,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,442,0.5,116.5
+1.0_95.0,1.8344697513591752,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,443,1.5,95.5
+-6.0_108.0,1.793291436570803,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,444,-5.5,108.5
+7.0_94.0,1.7795983926453904,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,445,7.5,94.5
+-14.0_136.0,1.7653490652182358,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,446,-13.5,136.5
+-15.0_136.0,1.7499834722134273,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,447,-14.5,136.5
+6.0_96.0,1.729816581496869,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,448,6.5,96.5
+-15.0_123.0,1.695445097817683,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,449,-14.5,123.5
+-11.0_108.0,1.6792470773948547,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,450,-10.5,108.5
+-9.0_104.0,1.6512886332978272,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,451,-8.5,104.5
+-14.0_121.0,1.6401325197997234,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,452,-13.5,121.5
+-11.0_126.0,1.627049726917246,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,453,-10.5,126.5
+-3.0_142.0,1.6236039029428961,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,454,-2.5,142.5
+-13.0_135.0,1.6195706380426935,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,455,-12.5,135.5
+-2.0_96.0,1.6094467358503017,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,456,-1.5,96.5
+-2.0_115.0,1.6030219480865655,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,457,-1.5,115.5
+-13.0_116.0,1.5600076044269133,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,458,-12.5,116.5
+-12.0_109.0,1.54555920530327,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,459,-11.5,109.5
+3.0_99.0,1.4988381342944788,1,0,"Grid mencakup Serdang Bedagai, Sumatera Utara (pusat di luar polygon administrasi)",Asahan; Batu Bara; Kota Pematangsiantar; Kota Tanjung Balai; Kota Tebing Tinggi; Serdang Bedagai; Simalungun,Sumatera Utara,Serdang Bedagai,Sumatera Utara,Pusat di luar polygon; grid beririsan dengan daratan,460,3.5,99.5
+-1.0_117.0,1.4882219049399987,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,461,-0.5,117.5
+2.0_94.0,1.4864728240732448,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,462,2.5,94.5
+-15.0_105.0,1.4817765174714916,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,463,-14.5,105.5
+-13.0_124.0,1.4594414501353143,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,464,-12.5,124.5
+2.0_119.0,1.4512451976848229,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,465,2.5,119.5
+-5.0_114.0,1.4487969531827842,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,466,-4.5,114.5
+-12.0_136.0,1.4142991681616097,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,467,-11.5,136.5
+-10.0_128.0,1.4057591251399901,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,468,-9.5,128.5
+-11.0_106.0,1.4014565663649985,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,469,-10.5,106.5
+6.0_127.0,1.3646149234020644,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,470,6.5,127.5
+-12.0_130.0,1.3553160415761458,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,471,-11.5,130.5
+3.0_140.0,1.3391820469265738,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,472,3.5,140.5
+2.0_117.0,1.3370921376029958,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,473,2.5,117.5
+-6.0_114.0,1.3232437338861789,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,474,-5.5,114.5
+5.0_128.0,1.31561475531653,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,475,5.5,128.5
+-8.0_133.0,1.3088756937975554,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,476,-7.5,133.5
+-6.0_117.0,1.2950856831999422,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,477,-5.5,117.5
+-12.0_114.0,1.292569701587474,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,478,-11.5,114.5
+-11.0_135.0,1.2772603892843601,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,479,-10.5,135.5
+-13.0_132.0,1.2703865263279355,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,480,-12.5,132.5
+-14.0_132.0,1.270386458164843,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,481,-13.5,132.5
+-13.0_122.0,1.2657001810040178,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,482,-12.5,122.5
+-15.0_132.0,1.237350311076931,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,483,-14.5,132.5
+-12.0_125.0,1.2343005326595888,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,484,-11.5,125.5
+-7.0_141.0,1.2335954351059573,1,0,"Grid mencakup Merauke, Papua Selatan (pusat di luar polygon administrasi)",Boven Digoel; Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,485,-6.5,141.5
+-6.0_138.0,1.210518655208134,0,0,"Asmat, Papua Selatan",Asmat; Mappi,Papua Selatan,Asmat,Papua Selatan,Pusat grid di dalam polygon administrasi,486,-5.5,138.5
+5.0_123.0,1.2086890468076699,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,487,5.5,123.5
+-8.0_102.0,1.2014068934153501,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,488,-7.5,102.5
+-13.0_119.0,1.1914512783841806,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,489,-12.5,119.5
+-15.0_142.0,1.1865053342497816,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,490,-14.5,142.5
+-14.0_130.0,1.179280815161515,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,491,-13.5,130.5
+-12.0_140.0,1.1577867694178086,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,492,-11.5,140.5
+-13.0_123.0,1.1302158593514193,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,493,-12.5,123.5
+-9.0_131.0,1.1181467341967735,1,0,"Grid mencakup Kepulauan Tanimbar, Maluku (pusat di luar polygon administrasi)",Kepulauan Tanimbar,Maluku,Kepulauan Tanimbar,Maluku,Pusat di luar polygon; grid beririsan dengan daratan,494,-8.5,131.5
+-14.0_122.0,1.1154614661133766,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,495,-13.5,122.5
+-11.0_136.0,1.088209478869449,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,496,-10.5,136.5
+-10.0_129.0,1.0781929404104,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,497,-9.5,129.5
+-13.0_120.0,1.0721052741680892,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,498,-12.5,120.5
+-6.0_116.0,1.0673383135879044,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,499,-5.5,116.5
+-10.0_141.0,1.055782812864777,0,0,"Grid mencakup Merauke, Papua Selatan (pusat di luar polygon administrasi)",Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,500,-9.5,141.5
+-1.0_110.0,1.0447959769192108,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,501,-0.5,110.5
+-11.0_127.0,1.0381850106436992,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,502,-10.5,127.5
+-13.0_113.0,1.0139103081597118,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,503,-12.5,113.5
+-2.0_116.0,1.00740896073935,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,504,-1.5,116.5
+-12.0_132.0,1.0039952849127665,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,505,-11.5,132.5
+1.0_131.0,0.9933809723014257,1,0,"Grid mencakup Raja Ampat, Papua Barat Daya (pusat di luar polygon administrasi)",Raja Ampat,Papua Barat Daya,Raja Ampat,Papua Barat Daya,Pusat di luar polygon; grid beririsan dengan daratan,506,1.5,131.5
+-13.0_118.0,0.9875829200436677,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,507,-12.5,118.5
+-12.0_126.0,0.9860808132637489,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,508,-11.5,126.5
+-4.0_114.0,0.9660763929262042,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,509,-3.5,114.5
+-8.0_139.0,0.9528718774158944,0,1,"Merauke, Papua Selatan",Mappi; Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat grid di dalam polygon administrasi,510,-7.5,139.5
+2.0_116.0,0.9404540214338402,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,511,2.5,116.5
+-5.0_115.0,0.9359686566710682,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,512,-4.5,115.5
+7.0_126.0,0.9281765469811412,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,513,7.5,126.5
+-12.0_107.0,0.9255052572653684,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,514,-11.5,107.5
+-10.0_140.0,0.9102135473215696,0,0,"Grid mencakup Merauke, Papua Selatan (pusat di luar polygon administrasi)",Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,515,-9.5,140.5
+-13.0_115.0,0.9067755461291562,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,516,-12.5,115.5
+3.0_137.0,0.898653697568252,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,517,3.5,137.5
+-1.0_115.0,0.8964061023467458,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,518,-0.5,115.5
+-14.0_120.0,0.8865558507144109,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,519,-13.5,120.5
+-12.0_129.0,0.873283365125354,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,520,-11.5,129.5
+-9.0_132.0,0.8658699877132762,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,521,-8.5,132.5
+-8.0_141.0,0.8565810203036368,0,1,"Grid mencakup Merauke, Papua Selatan (pusat di luar polygon administrasi)",Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,522,-7.5,141.5
+3.0_117.0,0.8532673110808735,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,523,3.5,117.5
+3.0_130.0,0.7975588759824511,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,524,3.5,130.5
+-10.0_131.0,0.7921941589509546,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,525,-9.5,131.5
+-2.0_117.0,0.7877236907199476,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,526,-1.5,117.5
+-11.0_138.0,0.7813948839274623,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,527,-10.5,138.5
+4.0_122.0,0.774235627263844,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,528,4.5,122.5
+-13.0_117.0,0.7556898365000584,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,529,-12.5,117.5
+6.0_123.0,0.7507355150821375,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,530,6.5,123.5
+-13.0_121.0,0.718768853556756,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,531,-12.5,121.5
+-12.0_127.0,0.7029542007095315,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,532,-11.5,127.5
+1.0_130.0,0.7026039639202739,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,533,1.5,130.5
+-9.0_133.0,0.6973790491650205,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,534,-8.5,133.5
+3.0_120.0,0.6766303680083565,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,535,3.5,120.5
+-8.0_140.0,0.6760974474387611,0,1,"Merauke, Papua Selatan",Boven Digoel; Mappi; Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat grid di dalam polygon administrasi,536,-7.5,140.5
+-11.0_129.0,0.6671460544155607,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,537,-10.5,129.5
+4.0_129.0,0.6598069855596383,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,538,4.5,129.5
+6.0_137.0,0.6439890563192008,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,539,6.5,137.5
+-3.0_97.0,0.6079352728660444,1,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,540,-2.5,97.5
+-1.0_111.0,0.6018050921502527,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,541,-0.5,111.5
+-6.0_109.0,0.5961631452685299,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,542,-5.5,109.5
+-7.0_100.0,0.593617595776384,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,543,-6.5,100.5
+-5.0_113.0,0.5861745754477341,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,544,-4.5,113.5
+-4.0_98.0,0.5848744422273042,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,545,-3.5,98.5
+-6.0_110.0,0.5822025545744149,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,546,-5.5,110.5
+5.0_131.0,0.5779803807837258,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,547,5.5,131.5
+6.0_132.0,0.5676412685429905,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,548,6.5,132.5
+-13.0_126.0,0.5668348089854487,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,549,-12.5,126.5
+2.0_130.0,0.5660030465531838,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,550,2.5,130.5
+-10.0_137.0,0.5621224454464437,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,551,-9.5,137.5
+3.0_116.0,0.5584393519893893,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,552,3.5,116.5
+5.0_132.0,0.5557001180880828,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,553,5.5,132.5
+-10.0_138.0,0.5398436125907563,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,554,-9.5,138.5
+-10.0_134.0,0.5356546203914714,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,555,-9.5,134.5
+2.0_100.0,0.5343790593764249,0,1,"Grid mencakup Rokan Hilir, Riau (pusat di luar polygon administrasi)",Labuhanbatu; Labuhanbatu Selatan; Labuhanbatu Utara; Rokan Hilir,Riau; Sumatera Utara,Rokan Hilir,Riau,Pusat di luar polygon; grid beririsan dengan daratan,556,2.5,100.5
+0.0_136.0,0.533439389957448,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,557,0.5,136.5
+-10.0_130.0,0.5269694475764161,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,558,-9.5,130.5
+-6.0_115.0,0.5120097024603188,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,559,-5.5,115.5
+-13.0_109.0,0.5044548027972883,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,560,-12.5,109.5
+0.0_138.0,0.49278213062763854,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,561,0.5,138.5
+-13.0_114.0,0.47397859012897875,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,562,-12.5,114.5
+-11.0_128.0,0.47013644577718045,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,563,-10.5,128.5
+7.0_123.0,0.45189908880482754,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,564,7.5,123.5
+0.0_140.0,0.44784951252958505,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,565,0.5,140.5
+-14.0_110.0,0.44548620141797696,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,566,-13.5,110.5
+-12.0_106.0,0.4444786053757205,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,567,-11.5,106.5
+-14.0_114.0,0.4379786646794977,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,568,-13.5,114.5
+-12.0_105.0,0.4239252198729849,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,569,-11.5,105.5
+-10.0_132.0,0.41976627443532744,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,570,-9.5,132.5
+-8.0_138.0,0.4161335411145128,0,1,"Merauke, Papua Selatan",Mappi; Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat grid di dalam polygon administrasi,571,-7.5,138.5
+-5.0_107.0,0.40567811555592337,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,572,-4.5,107.5
+-12.0_128.0,0.40477165089336864,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,573,-11.5,128.5
+-9.0_135.0,0.40283765641780755,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,574,-8.5,135.5
+-9.0_141.0,0.3980895271516348,0,1,"Grid mencakup Merauke, Papua Selatan (pusat di luar polygon administrasi)",Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,575,-8.5,141.5
+-11.0_133.0,0.3939962273884371,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,576,-10.5,133.5
+-11.0_105.0,0.39303464418220196,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,577,-10.5,105.5
+-1.0_116.0,0.3921918594309733,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,578,-0.5,116.5
+-1.0_102.0,0.38801453945061204,0,0,"Indragiri Hulu, Riau",Indragiri Hilir; Indragiri Hulu; Pelalawan; Tanjung Jabung Barat; Tebo,Jambi; Riau,Indragiri Hulu,Riau,Pusat grid di dalam polygon administrasi,579,-0.5,102.5
+0.0_115.0,0.3762927480134066,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,580,0.5,115.5
+2.0_137.0,0.3750070573168612,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,581,2.5,137.5
+5.0_136.0,0.35830659933564146,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,582,5.5,136.5
+-8.0_101.0,0.35476355114290414,0,0,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,583,-7.5,101.5
+3.0_119.0,0.35418366923754063,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,584,3.5,119.5
+2.0_115.0,0.35284393727503593,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,585,2.5,115.5
+-11.0_132.0,0.34578463432229845,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,586,-10.5,132.5
+4.0_132.0,0.34265716095585214,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,587,4.5,132.5
+5.0_122.0,0.33831899008040234,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,588,5.5,122.5
+4.0_120.0,0.3294412791410396,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,589,4.5,120.5
+0.0_110.0,0.32866405339430993,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,590,0.5,110.5
+-1.0_114.0,0.32759122477923747,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,591,-0.5,114.5
+0.0_111.0,0.32630117508617656,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,592,0.5,111.5
+4.0_117.0,0.318929279464732,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,593,4.5,117.5
+-9.0_134.0,0.3174945611130981,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,594,-8.5,134.5
+4.0_121.0,0.2932045358755773,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,595,4.5,121.5
+-6.0_99.0,0.28511657544936525,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,596,-5.5,99.5
+-9.0_137.0,0.2808718320450135,0,1,"Grid mencakup Merauke, Papua Selatan (pusat di luar polygon administrasi)",Merauke,Papua Selatan,Merauke,Papua Selatan,Pusat di luar polygon; grid beririsan dengan daratan,597,-8.5,137.5
+3.0_118.0,0.27935609463652245,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,598,3.5,118.5
+-2.0_110.0,0.2731087728425754,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,599,-1.5,110.5
+0.0_109.0,0.27001047836720365,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,600,0.5,109.5
+-14.0_113.0,0.26160774525929936,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,601,-13.5,113.5
+-5.0_98.0,0.2593259130800439,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,602,-4.5,98.5
+-9.0_103.0,0.2587034769895365,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,603,-8.5,103.5
+-2.0_103.0,0.2537039601026677,0,0,"Muaro Jambi, Jambi",Batanghari; Kota Jambi; Muaro Jambi; Musi Banyuasin; Sarolangun; Tanjung Jabung Barat; Tanjung Jabung Timur,Jambi; Sumatera Selatan,Muaro Jambi,Jambi,Pusat grid di dalam polygon administrasi,604,-1.5,103.5
+5.0_130.0,0.2533003032253707,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,605,5.5,130.5
+-4.0_113.0,0.25175755030998404,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,606,-3.5,113.5
+1.0_132.0,0.24437431408835972,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,607,1.5,132.5
+4.0_135.0,0.23628401306424796,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,608,4.5,135.5
+5.0_133.0,0.23242066049956223,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,609,5.5,133.5
+5.0_118.0,0.2318890029605391,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,610,5.5,118.5
+5.0_129.0,0.23143554414136064,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,611,5.5,129.5
+0.0_137.0,0.22050517634318767,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,612,0.5,137.5
+-5.0_106.0,0.19743597731882997,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,613,-4.5,106.5
+6.0_129.0,0.19532834616267813,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,614,6.5,129.5
+-1.0_113.0,0.18229028681158463,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,615,-0.5,113.5
+4.0_116.0,0.17157740643771646,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,616,4.5,116.5
+0.0_94.0,0.17057232163846092,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,617,0.5,94.5
+5.0_135.0,0.1693151682762012,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,618,5.5,135.5
+4.0_130.0,0.16651317701680074,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,619,4.5,130.5
+6.0_133.0,0.16635576440262123,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,620,6.5,133.5
+5.0_117.0,0.15714917147743404,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,621,5.5,117.5
+4.0_131.0,0.15226634140218823,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,622,4.5,131.5
+5.0_119.0,0.14755848797797927,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,623,5.5,119.5
+4.0_118.0,0.1469549994910062,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,624,4.5,118.5
+1.0_134.0,0.1385339052046367,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,625,1.5,134.5
+2.0_131.0,0.13613904982761788,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,626,2.5,131.5
+4.0_119.0,0.13572919049353446,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,627,4.5,119.5
+-7.0_137.0,0.13553000956812533,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,628,-6.5,137.5
+6.0_117.0,0.13372809440145483,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,629,6.5,117.5
+6.0_134.0,0.12980685494804434,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,630,6.5,134.5
+6.0_120.0,0.12495881310723123,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,631,6.5,120.5
+7.0_127.0,0.12383266713548614,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,632,7.5,127.5
+5.0_120.0,0.1235196666397257,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,633,5.5,120.5
+-10.0_133.0,0.11930947036010842,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,634,-9.5,133.5
+-2.0_112.0,0.11401437827591543,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,635,-1.5,112.5
+1.0_115.0,0.1098884502290556,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,636,1.5,115.5
+-7.0_99.0,0.10898266623772959,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,637,-6.5,99.5
+3.0_133.0,0.09969240889745816,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,638,3.5,133.5
+5.0_98.0,0.09920900002033248,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,639,5.5,98.5
+1.0_113.0,0.09835783271029311,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,640,1.5,113.5
+6.0_122.0,0.09614255629453301,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,641,6.5,122.5
+-9.0_102.0,0.09433490139556802,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,642,-8.5,102.5
+-3.0_113.0,0.09432737765641568,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,643,-2.5,113.5
+6.0_116.0,0.09336364990399244,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,644,6.5,116.5
+-1.0_107.0,0.09259766780629876,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,645,-0.5,107.5
+1.0_114.0,0.09143195685625036,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,646,1.5,114.5
+1.0_133.0,0.09056182954262369,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,647,1.5,133.5
+-1.0_109.0,0.08772666160399517,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,648,-0.5,109.5
+1.0_94.0,0.08570045361650035,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,649,1.5,94.5
+0.0_114.0,0.08548632138250914,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,650,0.5,114.5
+-11.0_104.0,0.08505903059143811,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,651,-10.5,104.5
+3.0_115.0,0.08281901580177171,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,652,3.5,115.5
+-4.0_105.0,0.07761262180186808,0,1,"Ogan Komering Ilir, Sumatera Selatan",Banyuasin; Mesuji; Ogan Komering Ilir,Lampung; Sumatera Selatan,Ogan Komering Ilir,Sumatera Selatan,Pusat grid di dalam polygon administrasi,653,-3.5,105.5
+-2.0_111.0,0.07669306189367486,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,654,-1.5,111.5
+-2.0_113.0,0.0754433191904891,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,655,-1.5,113.5
+6.0_128.0,0.07434542037700982,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,656,6.5,128.5
+0.0_108.0,0.0739946751871309,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,657,0.5,108.5
+0.0_106.0,0.07375851238438028,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,658,0.5,106.5
+5.0_115.0,0.07309321566444538,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,659,5.5,115.5
+-4.0_108.0,0.0728709082345431,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,660,-3.5,108.5
+2.0_112.0,0.06850255265681288,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,661,2.5,112.5
+0.0_112.0,0.06812122976720712,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,662,0.5,112.5
+-1.0_112.0,0.06576284073127553,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,663,-0.5,112.5
+-4.0_112.0,0.06502377305897392,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,664,-3.5,112.5
+-6.0_98.0,0.06467114862782174,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,665,-5.5,98.5
+-10.0_104.0,0.06366248233474005,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,666,-9.5,104.5
+-5.0_97.0,0.05949421465632743,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,667,-4.5,97.5
+-9.0_99.0,0.057921671377472304,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,668,-8.5,99.5
+-5.0_109.0,0.05762540847063261,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,669,-4.5,109.5
+-5.0_108.0,0.057604896391997826,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,670,-4.5,108.5
+-10.0_103.0,0.057025546901641626,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,671,-9.5,103.5
+2.0_113.0,0.056947323656722844,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,672,2.5,113.5
+1.0_107.0,0.056330308767046665,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,673,1.5,107.5
+0.0_107.0,0.054857782852385566,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,674,0.5,107.5
+5.0_134.0,0.05043093852404904,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,675,5.5,134.5
+-3.0_110.0,0.049741077894623925,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,676,-2.5,110.5
+-4.0_94.0,0.049135671772776106,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,677,-3.5,94.5
+-5.0_94.0,0.049135671772776106,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,678,-4.5,94.5
+6.0_105.0,0.04828000337126312,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,679,6.5,105.5
+-4.0_97.0,0.047879439102220714,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,680,-3.5,97.5
+0.0_113.0,0.04480950154821134,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,681,0.5,113.5
+-10.0_102.0,0.04399334323919164,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,682,-9.5,102.5
+1.0_101.0,0.04369067178820908,0,1,"Kota Dumai, Riau",Bengkalis; Kota Dumai; Rokan Hilir; Siak,Riau,Bengkalis,Riau,Pusat grid di dalam polygon administrasi,683,1.5,101.5
+7.0_120.0,0.04352686843476125,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,684,7.5,120.5
+1.0_136.0,0.04316942901917619,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,685,1.5,136.5
+6.0_115.0,0.04129499702631616,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,686,6.5,115.5
+-4.0_109.0,0.04121081060098373,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,687,-3.5,109.5
+6.0_112.0,0.04074976605057373,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,688,6.5,112.5
+-8.0_99.0,0.03775050224207331,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,689,-7.5,99.5
+2.0_132.0,0.03774526803826419,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,690,2.5,132.5
+5.0_113.0,0.03719077895946059,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,691,5.5,113.5
+5.0_121.0,0.03668865559146869,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,692,5.5,121.5
+-9.0_100.0,0.03616904327185308,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,693,-8.5,100.5
+3.0_131.0,0.035489668181642765,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,694,3.5,131.5
+-5.0_110.0,0.03534981191741077,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,695,-4.5,110.5
+-3.0_108.0,0.03412424382295693,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,696,-2.5,108.5
+-3.0_104.0,0.033878534559631225,0,1,"Banyuasin, Sumatera Selatan",Banyuasin; Kota Palembang; Musi Banyuasin,Sumatera Selatan,Banyuasin,Sumatera Selatan,Pusat grid di dalam polygon administrasi,697,-2.5,104.5
+-5.0_95.0,0.033482015005791864,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,698,-4.5,95.5
+1.0_110.0,0.03281692882339279,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,699,1.5,110.5
+-6.0_97.0,0.03228778998115643,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,700,-5.5,97.5
+-3.0_111.0,0.03155248670992059,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,701,-2.5,111.5
+5.0_103.0,0.03087381729099666,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,702,5.5,103.5
+4.0_115.0,0.030710168812291463,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,703,4.5,115.5
+-10.0_101.0,0.027241765134677326,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,704,-9.5,101.5
+3.0_102.0,0.026957701242484856,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,705,3.5,102.5
+4.0_99.0,0.026955265515414852,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,706,4.5,99.5
+-11.0_100.0,0.026030199715337297,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,707,-10.5,100.5
+-2.0_109.0,0.025867628140981723,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,708,-1.5,109.5
+-10.0_99.0,0.02569390401287736,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,709,-9.5,99.5
+5.0_102.0,0.024585085385431794,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,710,5.5,102.5
+-1.0_108.0,0.023479892916408552,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,711,-0.5,108.5
+-9.0_101.0,0.022624333088133716,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,712,-8.5,101.5
+5.0_116.0,0.022465401571526725,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,713,5.5,116.5
+-11.0_101.0,0.021505767999369724,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,714,-10.5,101.5
+-11.0_103.0,0.02051673301568176,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,715,-10.5,103.5
+0.0_102.0,0.020454569088953708,0,1,"Pelalawan, Riau",Indragiri Hilir; Indragiri Hulu; Kepulauan Meranti; Pelalawan; Siak,Riau,Pelalawan,Riau,Pusat grid di dalam polygon administrasi,716,0.5,102.5
+-2.0_108.0,0.020051254285138858,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,717,-1.5,108.5
+1.0_111.0,0.01989397808176469,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,718,1.5,111.5
+5.0_108.0,0.019400473258197146,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,719,5.5,108.5
+-1.0_103.0,0.017190457619754285,0,1,"Indragiri Hilir, Riau",Indragiri Hilir; Tanjung Jabung Barat; Tanjung Jabung Timur,Jambi; Riau,Indragiri Hilir,Riau,Pusat grid di dalam polygon administrasi,720,-0.5,103.5
+3.0_132.0,0.016554289416543255,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,721,3.5,132.5
+3.0_106.0,0.016526486362392918,0,1,"Grid mencakup Kepulauan Anambas, Kepulauan Riau (pusat di luar polygon administrasi)",Kepulauan Anambas,Kepulauan Riau,Kepulauan Anambas,Kepulauan Riau,Pusat di luar polygon; grid beririsan dengan daratan,722,3.5,106.5
+-3.0_106.0,0.011767169408822786,0,1,"Grid mencakup Bangka Selatan, Kepulauan Bangka Belitung (pusat di luar polygon administrasi)",Bangka; Bangka Selatan; Bangka Tengah; Kota Pangkal Pinang; Ogan Komering Ilir,Kepulauan Bangka Belitung; Sumatera Selatan,Bangka Selatan,Kepulauan Bangka Belitung,Pusat di luar polygon; grid beririsan dengan daratan,723,-2.5,106.5
+5.0_100.0,0.01111882001828925,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,724,5.5,100.5
+2.0_133.0,0.011033582561804416,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,725,2.5,133.5
+-10.0_97.0,0.010701534642109403,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,726,-9.5,97.5
+1.0_105.0,0.009641326560545237,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,727,1.5,105.5
+5.0_105.0,0.008603608767897687,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,728,5.5,105.5
+5.0_106.0,0.007757186642046276,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,729,5.5,106.5
+-3.0_109.0,0.007643220340041314,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,730,-2.5,109.5
+4.0_113.0,0.007504554016171352,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,731,4.5,113.5
+5.0_112.0,0.007390525550448691,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,732,5.5,112.5
+-10.0_95.0,0.006691816056107077,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,733,-9.5,95.5
+-8.0_97.0,0.005882572448404091,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,734,-7.5,97.5
+-5.0_111.0,0.004593225311133157,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,735,-4.5,111.5
+-2.0_95.0,0.004192109333445674,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,736,-1.5,95.5
+-10.0_96.0,0.002546625080674702,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,737,-9.5,96.5
+-7.0_95.0,0.0011836099917751097,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,738,-6.5,95.5
+-9.0_95.0,0.0007546509164949053,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,739,-8.5,95.5
+3.0_100.0,0.00032809803451841035,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,740,3.5,100.5
+-1.0_104.0,0.0,0,1,"Lingga, Kepulauan Riau",; Lingga; Tanjung Jabung Timur,Jambi; Kepulauan Riau,Lingga,Kepulauan Riau,Pusat grid di dalam polygon administrasi,741,-0.5,104.5
+-1.0_105.0,0.0,0,1,"Grid mencakup Lingga, Kepulauan Riau (pusat di luar polygon administrasi)",Lingga,Kepulauan Riau,Lingga,Kepulauan Riau,Pusat di luar polygon; grid beririsan dengan daratan,742,-0.5,105.5
+-1.0_106.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,743,-0.5,106.5
+-10.0_98.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,744,-9.5,98.5
+-11.0_102.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,745,-10.5,102.5
+-2.0_104.0,0.0,0,1,"Grid mencakup Tanjung Jabung Timur, Jambi (pusat di luar polygon administrasi)",Banyuasin; Muaro Jambi; Musi Banyuasin; Tanjung Jabung Timur,Jambi; Sumatera Selatan,Tanjung Jabung Timur,Jambi,Pusat di luar polygon; grid beririsan dengan daratan,746,-1.5,104.5
+-2.0_105.0,0.0,0,1,"Grid mencakup Bangka Barat, Kepulauan Bangka Belitung (pusat di luar polygon administrasi)",Bangka; Bangka Barat; Lingga,Kepulauan Bangka Belitung; Kepulauan Riau,Bangka Barat,Kepulauan Bangka Belitung,Pusat di luar polygon; grid beririsan dengan daratan,747,-1.5,105.5
+-2.0_106.0,0.0,0,1,"Grid mencakup Bangka, Kepulauan Bangka Belitung (pusat di luar polygon administrasi)",Bangka,Kepulauan Bangka Belitung,Bangka,Kepulauan Bangka Belitung,Pusat di luar polygon; grid beririsan dengan daratan,748,-1.5,106.5
+-2.0_107.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,749,-1.5,107.5
+-3.0_105.0,0.0,0,1,"Ogan Komering Ilir, Sumatera Selatan",Bangka; Bangka Barat; Bangka Selatan; Bangka Tengah; Banyuasin; Ogan Komering Ilir,Kepulauan Bangka Belitung; Sumatera Selatan,Ogan Komering Ilir,Sumatera Selatan,Pusat grid di dalam polygon administrasi,750,-2.5,105.5
+-3.0_107.0,0.0,0,1,"Grid mencakup Bangka Selatan, Kepulauan Bangka Belitung (pusat di luar polygon administrasi)",Bangka Selatan; Bangka Tengah,Kepulauan Bangka Belitung,Bangka Selatan,Kepulauan Bangka Belitung,Pusat di luar polygon; grid beririsan dengan daratan,751,-2.5,107.5
+-3.0_112.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,752,-2.5,112.5
+-3.0_96.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,753,-2.5,96.5
+-4.0_106.0,0.0,0,1,"Grid mencakup Bangka Selatan, Kepulauan Bangka Belitung (pusat di luar polygon administrasi)",Bangka Selatan; Ogan Komering Ilir,Kepulauan Bangka Belitung; Sumatera Selatan,Bangka Selatan,Kepulauan Bangka Belitung,Pusat di luar polygon; grid beririsan dengan daratan,754,-3.5,106.5
+-4.0_107.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,755,-3.5,107.5
+-4.0_110.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,756,-3.5,110.5
+-4.0_111.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,757,-3.5,111.5
+-4.0_95.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,758,-3.5,95.5
+-6.0_96.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,759,-5.5,96.5
+-7.0_96.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,760,-6.5,96.5
+-7.0_97.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,761,-6.5,97.5
+-7.0_98.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,762,-6.5,98.5
+-8.0_95.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,763,-7.5,95.5
+-8.0_96.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,764,-7.5,96.5
+-8.0_98.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,765,-7.5,98.5
+0.0_103.0,0.0,0,1,"Grid mencakup Indragiri Hilir, Riau (pusat di luar polygon administrasi)",Indragiri Hilir; Karimun; Kepulauan Meranti; Kota Batam; Pelalawan,Kepulauan Riau; Riau,Indragiri Hilir,Riau,Pusat di luar polygon; grid beririsan dengan daratan,766,0.5,103.5
+0.0_104.0,0.0,0,1,"Grid mencakup Lingga, Kepulauan Riau (pusat di luar polygon administrasi)",Kota Batam; Kota Tanjung Pinang; Lingga,Kepulauan Riau,Lingga,Kepulauan Riau,Pusat di luar polygon; grid beririsan dengan daratan,767,0.5,104.5
+0.0_105.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,768,0.5,105.5
+1.0_102.0,0.0,0,1,"Grid mencakup Kepulauan Meranti, Riau (pusat di luar polygon administrasi)",Bengkalis; Kepulauan Meranti; Siak,Riau,Kepulauan Meranti,Riau,Pusat di luar polygon; grid beririsan dengan daratan,769,1.5,102.5
+1.0_103.0,0.0,0,1,"Grid mencakup Kota Batam, Kepulauan Riau (pusat di luar polygon administrasi)",Karimun; Kepulauan Meranti; Kota Batam,Kepulauan Riau; Riau,Kota Batam,Kepulauan Riau,Pusat di luar polygon; grid beririsan dengan daratan,770,1.5,103.5
+1.0_106.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,771,1.5,106.5
+1.0_108.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,772,1.5,108.5
+1.0_109.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,773,1.5,109.5
+2.0_101.0,0.0,0,1,"Grid mencakup Kota Dumai, Riau (pusat di luar polygon administrasi)",Bengkalis; Kota Dumai; Rokan Hilir,Riau,Kota Dumai,Riau,Pusat di luar polygon; grid beririsan dengan daratan,774,2.5,101.5
+2.0_102.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,775,2.5,102.5
+2.0_103.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,776,2.5,103.5
+2.0_104.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,777,2.5,104.5
+2.0_105.0,0.0,0,1,"Grid mencakup Kepulauan Anambas, Kepulauan Riau (pusat di luar polygon administrasi)",Kepulauan Anambas,Kepulauan Riau,Kepulauan Anambas,Kepulauan Riau,Pusat di luar polygon; grid beririsan dengan daratan,778,2.5,105.5
+2.0_107.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,779,2.5,107.5
+2.0_108.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,780,2.5,108.5
+2.0_109.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,781,2.5,109.5
+2.0_110.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,782,2.5,110.5
+2.0_111.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,783,2.5,111.5
+2.0_114.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,784,2.5,114.5
+3.0_101.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,785,3.5,101.5
+3.0_103.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,786,3.5,103.5
+3.0_104.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,787,3.5,104.5
+3.0_105.0,0.0,0,1,"Grid mencakup Kepulauan Anambas, Kepulauan Riau (pusat di luar polygon administrasi)",Kepulauan Anambas,Kepulauan Riau,Kepulauan Anambas,Kepulauan Riau,Pusat di luar polygon; grid beririsan dengan daratan,788,3.5,105.5
+3.0_107.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,789,3.5,107.5
+3.0_108.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,790,3.5,108.5
+3.0_110.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,791,3.5,110.5
+3.0_111.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,792,3.5,111.5
+3.0_112.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,793,3.5,112.5
+3.0_113.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,794,3.5,113.5
+3.0_114.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,795,3.5,114.5
+4.0_100.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,796,4.5,100.5
+4.0_101.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,797,4.5,101.5
+4.0_102.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,798,4.5,102.5
+4.0_105.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,799,4.5,105.5
+4.0_106.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,800,4.5,106.5
+4.0_108.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,801,4.5,108.5
+4.0_109.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,802,4.5,109.5
+4.0_110.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,803,4.5,110.5
+4.0_111.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,804,4.5,111.5
+4.0_114.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,805,4.5,114.5
+5.0_101.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,806,5.5,101.5
+5.0_104.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,807,5.5,104.5
+5.0_110.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,808,5.5,110.5
+5.0_111.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,809,5.5,111.5
+6.0_121.0,0.0,0,1,Tidak teridentifikasi dalam polygon kabupaten/kota,,,,,Tidak beririsan dengan polygon kabupaten/kota,810,6.5,121.5
